@@ -10,8 +10,8 @@ ByteStream Torrent is a torrent client that makes it easy to download movies, mu
 
 ## Screenshots
 
-<img src="https://luandersonn.com/images/bytestream/screenshots/download-list-dark-2.png" alt="Add download dialog" width="600" height="350" loading="lazy" />
+<img src="https://luandersonn.com/images/bytestream/screenshots/download-list-dark-2.png" alt="Torrent list" width="800" loading="lazy" />
 
-<img src="https://luandersonn.com/images/bytestream/screenshots/add-download-dialog.png" alt="Add download dialog" width="600" height="350" loading="lazy" />
+<img src="https://luandersonn.com/images/bytestream/screenshots/add-download-dialog.png" alt="Add download dialog" width="800" loading="lazy" />
 
-<img src="https://luandersonn.com/images/bytestream/screenshots/download-list-dark.png" alt="Add download dialog" width="600" height="350" loading="lazy" />
+<img src="https://luandersonn.com/images/bytestream/screenshots/download-list-dark.png" alt="Torrent list" width="800" loading="lazy" />
