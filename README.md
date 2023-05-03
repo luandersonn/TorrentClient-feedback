@@ -1,7 +1,7 @@
 
 # ByteStream Torrent for Windows 11 (Feedback)
  
-<img src="https://luandersonn.com/images/bytestream/bytestream-icon.png" alt="ByteStream logo" width="150"/> 
+<img src="assets/images/bytestream-icon.png" alt="ByteStream logo" width="150"/> 
 
 ByteStream Torrent is a torrent client that makes it easy to download movies, music, games, software, ebooks and more. It has an intuitive interface and beautiful design. The app supports magnet links, so you can quickly find torrents without having to go through the hassle of searching manually.
 
@@ -10,7 +10,7 @@ ByteStream Torrent is a torrent client that makes it easy to download movies, mu
 
 ## Screenshots
 
-<img src="https://luandersonn.com/images/bytestream/screenshots/download-list-dark-2.png" alt="Torrent list" width="800" loading="lazy" />
+<img src="assets/images/bst-screenshot-light.png" alt="Torrent list" width="800" loading="lazy" />
 
 <img src="https://luandersonn.com/images/bytestream/screenshots/add-download-dialog.png" alt="Add download dialog" width="800" loading="lazy" />
 
