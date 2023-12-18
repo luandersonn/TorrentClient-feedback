@@ -9,3 +9,23 @@
 
 <a href="https://www.microsoft.com/store/apps/9PJT9PBVG7K8"><img  src="https://luandersonn.com/images/microsoft-store.png" alt="Microsoft Stoer link" width="280" loading="lazy" /></a>
 
+## Help to Translate
+
+### How to translate
+1. Download the language file you want to translate [here](translations/) (or [request the file](https://github.com/luandersonn/TorrentClient/issues/new) if not exist).
+2. Edit the file using a XLIFF editor. I recommend [Poedit](https://poedit.net/).
+3. Upload the file to the repository
+4. Open a pull request
+
+| Code  | Language | Progress |
+|------ |:--------:|-----:|
+| en-US | English | base language |
+| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
