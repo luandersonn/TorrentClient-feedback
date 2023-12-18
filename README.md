@@ -12,7 +12,7 @@
 ## Help to Translate
 
 ### How to translate
-1. Download the language file you want to translate [here](translations/) (or [request the file](https://github.com/luandersonn/TorrentClient/issues/new) if not exist).
+1. Download the language file you want to translate [here](translations/) or [request the file](https://github.com/luandersonn/TorrentClient/issues/new) if it does not exist.
 2. Edit the file using a XLIFF editor. I recommend [Poedit](https://poedit.net/).
 3. Upload the file to the repository
 4. Open a pull request
