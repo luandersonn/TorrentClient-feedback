@@ -21,7 +21,7 @@
 |------ |:--------:|-----:|
 | en-US | English | base language |
 | de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
