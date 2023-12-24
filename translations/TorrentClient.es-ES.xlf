@@ -503,6 +503,61 @@
           <target state="translated">Ilimitada</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text displayed in the number box when the download or upload limit is unlimited.</note>
         </trans-unit>
+        <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="new">Completed</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has completed downloading all data</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="new">Downloading</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading data from peers</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has encountered an error and cannot continue</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve">
+          <source>Hashing</source>
+          <target state="new">Hashing</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data to verify integrity</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
+          <source>Hashing paused</source>
+          <target state="new">Hashing paused</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
+          <source>Retrieving torrent details</source>
+          <target state="new">Retrieving torrent details</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>
+        </trans-unit>
+        <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
+          <source>Paused</source>
+          <target state="new">Paused</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is paused by the user</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
+          <source>Seeding</source>
+          <target state="new">Seeding</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
+          <source>Starting</source>
+          <target state="new">Starting</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
+          <source>Stopped</source>
+          <target state="new">Stopped</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopped and not active</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
+          <source>Stopping</source>
+          <target state="new">Stopping</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
+        </trans-unit>
       </group>
     </body>
   </file>

@@ -233,7 +233,7 @@
         </trans-unit>
         <trans-unit id="OpenFolderButton.Label" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="needs-review-translation">Abrir pasta</target>
+          <target state="translated">Abrir pasta</target>
         </trans-unit>
         <trans-unit id="PauseTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Pause</source>
@@ -376,7 +376,7 @@
         </trans-unit>
         <trans-unit id="OpenFolderButton.Text" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="needs-review-translation">Abrir pasta</target>
+          <target state="translated">Abrir pasta</target>
         </trans-unit>
         <trans-unit id="OpenTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Open torrent</source>
@@ -470,6 +470,61 @@
         <trans-unit id="DownloadCompleteNotificationMessage" translate="yes" xml:space="preserve">
           <source>Download complete</source>
           <target state="translated">Download concluído</target>
+        </trans-unit>
+        <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="translated">Concluído</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has completed downloading all data</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="translated">Baixando</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading data from peers</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="translated">Erro</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has encountered an error and cannot continue</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve">
+          <source>Hashing</source>
+          <target state="translated">Hashing</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data to verify integrity</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
+          <source>Hashing paused</source>
+          <target state="translated">Hashing pausado</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>          
+        </trans-unit>
+        <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
+          <source>Retrieving torrent details</source>
+          <target state="translated">Baixando informações do torrent</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>          
+        </trans-unit>
+        <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
+          <source>Paused</source>
+          <target state="translated">Pausado</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is paused by the user</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
+          <source>Seeding</source>
+          <target state="translated">Enviando</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
+          <source>Starting</source>
+          <target state="translated">Iniciando</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
+          <source>Stopped</source>
+          <target state="translated">Parado</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopped and not active</note>
+        </trans-unit>
+        <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
+          <source>Stopping</source>
+          <target state="translated">Parando</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
         </trans-unit>
       </group>
     </body>
