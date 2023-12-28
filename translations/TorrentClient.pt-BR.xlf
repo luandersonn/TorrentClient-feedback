@@ -47,10 +47,6 @@
           <source>Magnet link</source>
           <target state="translated">Magnet link</target>
         </trans-unit>
-        <trans-unit id="MinimizeToTrayButton.Label" translate="yes" xml:space="preserve">
-          <source>Minimize to Tray</source>
-          <target state="translated">Ocultar app</target>
-        </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Main page</source>
           <target state="translated">Página Inicial</target>
@@ -58,6 +54,10 @@
         <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Settings</source>
           <target state="translated">Configurações</target>
+        </trans-unit>
+        <trans-unit id="MinimizeToTrayButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Minimize to Tray</source>
+          <target state="translated">Minimizar para a bandeja</target>
         </trans-unit>
       </group>
     </body>
@@ -494,12 +494,12 @@
         <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
           <source>Hashing paused</source>
           <target state="translated">Hashing pausado</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>          
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>
         </trans-unit>
         <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
           <source>Retrieving torrent details</source>
           <target state="translated">Baixando informações do torrent</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>          
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>
         </trans-unit>
         <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
           <source>Paused</source>
