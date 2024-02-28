@@ -1,222 +1,222 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" datatype="resx">
         <trans-unit id="DeleteDownloadedFilesCheckboxLabel.Text" translate="yes" xml:space="preserve">
           <source>Delete downloaded files</source>
-          <target state="new">Delete downloaded files</target>
+          <target state="translated">Удалить скачанные файлы</target>
         </trans-unit>
         <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Are you sure you want to remove this torrent?</source>
-          <target state="new">Are you sure you want to remove this torrent?</target>
+          <target state="translated">Вы уверены, что хотите удалить этот торрент?</target>
         </trans-unit>
         <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve">
           <source>Delete...</source>
-          <target state="new">Delete...</target>
+          <target state="translated">Удалить...</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
         <trans-unit id="ActiveTorrentsCountIconTrayTooltip" translate="yes" xml:space="preserve">
           <source>Active torrents: {0}</source>
-          <target state="new">Active torrents: {0}</target>
+          <target state="translated">Активных торрентов: {0}</target>
         </trans-unit>
         <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve">
           <source>A torrent client for Windows 11</source>
-          <target state="new">A torrent client for Windows 11</target>
+          <target state="translated">Торрент клиент для Windows 11</target>
         </trans-unit>
         <trans-unit id="AppName.Text" translate="yes" xml:space="preserve">
           <source>ByteStream Torrent</source>
-          <target state="new">ByteStream Torrent</target>
+          <target state="translated">ByteStream Torrent</target>
         </trans-unit>
         <trans-unit id="AppShortName.Text" translate="yes" xml:space="preserve">
           <source>ByteStream</source>
-          <target state="new">ByteStream</target>
+          <target state="translated">ByteStream</target>
         </trans-unit>
         <trans-unit id="BrowseButton.Text" translate="yes" xml:space="preserve">
           <source>Browse...</source>
-          <target state="new">Browse...</target>
+          <target state="translated">Изменить...</target>
         </trans-unit>
         <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="new">Cancel</target>
+          <target state="translated">Отмена</target>
         </trans-unit>
         <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
           <source>Close</source>
-          <target state="new">Close</target>
+          <target state="translated">Закрыть</target>
         </trans-unit>
         <trans-unit id="CopyMagnetLinkButton.Text" translate="yes" xml:space="preserve">
           <source>Copy magnet link</source>
-          <target state="new">Copy magnet link</target>
+          <target state="translated">Копировать magnet ссылку</target>
         </trans-unit>
         <trans-unit id="DeleteButton.Text" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="translated">Удалить</target>
         </trans-unit>
         <trans-unit id="DownloadButton.Text" translate="yes" xml:space="preserve">
           <source>Download</source>
-          <target state="new">Download</target>
+          <target state="translated">Скачать</target>
         </trans-unit>
         <trans-unit id="DownloadCompleteNotificationMessage" translate="yes" xml:space="preserve">
           <source>Download complete</source>
-          <target state="new">Download complete</target>
+          <target state="translated">Загрузка завершена</target>
         </trans-unit>
         <trans-unit id="ExitAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Exit</source>
-          <target state="new">Exit</target>
+          <target state="translated">Выход</target>
         </trans-unit>
         <trans-unit id="HideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Hide app</source>
-          <target state="new">Hide app</target>
+          <target state="translated">Свернуть приложение</target>
         </trans-unit>
         <trans-unit id="NoActiveTorrentsIconTrayTooltip" translate="yes" xml:space="preserve">
           <source>No active torrents</source>
-          <target state="new">No active torrents</target>
+          <target state="translated">Нет активных торрентов</target>
         </trans-unit>
         <trans-unit id="OpenButton.Text" translate="yes" xml:space="preserve">
           <source>Open</source>
-          <target state="new">Open</target>
+          <target state="translated">Открыть</target>
         </trans-unit>
         <trans-unit id="OpenFolderButton.Text" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="new">Open folder</target>
+          <target state="translated">Открыть папку</target>
         </trans-unit>
         <trans-unit id="OpenTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Open torrent</source>
-          <target state="new">Open torrent</target>
+          <target state="translated">Открыть торрент</target>
         </trans-unit>
         <trans-unit id="PauseButton.Text" translate="yes" xml:space="preserve">
           <source>Pause</source>
-          <target state="new">Pause</target>
+          <target state="translated">Пауза</target>
         </trans-unit>
         <trans-unit id="RemoveButton.Text" translate="yes" xml:space="preserve">
           <source>Remove</source>
-          <target state="new">Remove</target>
+          <target state="translated">Убрать</target>
         </trans-unit>
         <trans-unit id="ResumeButton.Text" translate="yes" xml:space="preserve">
           <source>Resume</source>
-          <target state="new">Resume</target>
+          <target state="translated">Пуск</target>
         </trans-unit>
         <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve">
           <source>Save file...</source>
-          <target state="new">Save file...</target>
+          <target state="translated">Сохранить файл...</target>
         </trans-unit>
         <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve">
           <source>Select all</source>
-          <target state="new">Select all</target>
+          <target state="translated">Выбрать всё</target>
         </trans-unit>
         <trans-unit id="ShareButton.Text" translate="yes" xml:space="preserve">
           <source>Share</source>
-          <target state="new">Share</target>
+          <target state="translated">Поделиться</target>
         </trans-unit>
         <trans-unit id="ShowAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Show app</source>
-          <target state="new">Show app</target>
+          <target state="translated">Показать приложение</target>
         </trans-unit>
         <trans-unit id="ShowHideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Show/Hide</source>
-          <target state="new">Show/Hide</target>
+          <target state="translated">Показать/Свернуть</target>
         </trans-unit>
         <trans-unit id="StopButton.Text" translate="yes" xml:space="preserve">
           <source>Stop</source>
-          <target state="new">Stop</target>
+          <target state="translated">Стоп</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityDoNotDownload.Text" translate="yes" xml:space="preserve">
           <source>Do not download</source>
-          <target state="new">Do not download</target>
+          <target state="translated">Не загружать</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityHigh.Text" translate="yes" xml:space="preserve">
           <source>High</source>
-          <target state="new">High</target>
+          <target state="translated">Высокий</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityHighest.Text" translate="yes" xml:space="preserve">
           <source>Highest</source>
-          <target state="new">Highest</target>
+          <target state="translated">Высший</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityImmediate.Text" translate="yes" xml:space="preserve">
           <source>Immediate</source>
-          <target state="new">Immediate</target>
+          <target state="translated">Незамедлительно</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityLow.Text" translate="yes" xml:space="preserve">
           <source>Low</source>
-          <target state="new">Low</target>
+          <target state="translated">Низкий</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityLowest.Text" translate="yes" xml:space="preserve">
           <source>Lowest</source>
-          <target state="new">Lowest</target>
+          <target state="translated">Низший</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityNormal.Text" translate="yes" xml:space="preserve">
           <source>Normal</source>
-          <target state="new">Normal</target>
+          <target state="translated">Нормальный</target>
         </trans-unit>
         <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve">
           <source>Completed</source>
-          <target state="new">Completed</target>
+          <target state="translated">Завершено</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has completed downloading all data</note>
         </trans-unit>
         <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve">
           <source>Downloading</source>
-          <target state="new">Downloading</target>
+          <target state="translated">Скачивание</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading data from peers</note>
         </trans-unit>
         <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve">
           <source>Error</source>
-          <target state="new">Error</target>
+          <target state="translated">Ошибка</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has encountered an error and cannot continue</note>
         </trans-unit>
         <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve">
           <source>Hashing</source>
-          <target state="new">Hashing</target>
+          <target state="translated">Хеширование</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data to verify integrity</note>
         </trans-unit>
         <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
           <source>Hashing paused</source>
-          <target state="new">Hashing paused</target>
+          <target state="translated">Хеширование приостановлено</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>
         </trans-unit>
         <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
           <source>Retrieving torrent details</source>
-          <target state="new">Retrieving torrent details</target>
+          <target state="translated">Получение сведений о торренте</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>
         </trans-unit>
         <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
           <source>Paused</source>
-          <target state="new">Paused</target>
+          <target state="translated">Приостановлено</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is paused by the user</note>
         </trans-unit>
         <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
           <source>Seeding</source>
-          <target state="new">Seeding</target>
+          <target state="translated">Раздача</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
         </trans-unit>
         <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
           <source>Starting</source>
-          <target state="new">Starting</target>
+          <target state="translated">Подготовка</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
         </trans-unit>
         <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
           <source>Stopped</source>
-          <target state="new">Stopped</target>
+          <target state="translated">Остановлен</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopped and not active</note>
         </trans-unit>
         <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
           <source>Stopping</source>
-          <target state="new">Stopping</target>
+          <target state="translated">Остановка</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
         </trans-unit>
         <trans-unit id="TransferLimitUnlimited" translate="yes" xml:space="preserve">
           <source>Unlimited</source>
-          <target state="new">Unlimited</target>
+          <target state="translated">Безлимитно</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text displayed in the number box when the download or upload limit is unlimited.</note>
         </trans-unit>
       </group>
@@ -224,437 +224,437 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="DonateMoneyHeader.Text" translate="yes" xml:space="preserve">
           <source>Donate money</source>
-          <target state="new">Donate money</target>
+          <target state="translated">Пожертвовать денег</target>
         </trans-unit>
         <trans-unit id="Give5StarRatingHeader.Text" translate="yes" xml:space="preserve">
           <source>Give 5-star rating</source>
-          <target state="new">Give 5-star rating</target>
+          <target state="translated">Поставить 5 звёзд приложению</target>
         </trans-unit>
         <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
-          <target state="new">Open Microsoft Store</target>
+          <target state="translated">Открыть в Microsoft Store</target>
         </trans-unit>
         <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve">
           <source>Share on social networks</source>
-          <target state="new">Share on social networks</target>
+          <target state="translated">Поделиться в социальных сетях</target>
         </trans-unit>
         <trans-unit id="SupportTheDevPageDescription.Text" translate="yes" xml:space="preserve">
           <source>This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</source>
-          <target state="new">This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</target>
+          <target state="translated">Это приложение бесплатное, но его разработка требует затрат (времени и оборудования). Вот некоторые вещи, которые вы можете сделать, чтобы помочь:</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" datatype="resx">
         <trans-unit id="OpenDeleteTorrentDialogButton.Label" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="translated">Удалить</target>
         </trans-unit>
         <trans-unit id="OpenFolderButton.Label" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="new">Open folder</target>
+          <target state="translated">Открыть папку</target>
         </trans-unit>
         <trans-unit id="PauseTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Pause</source>
-          <target state="new">Pause</target>
+          <target state="translated">Пауза</target>
         </trans-unit>
         <trans-unit id="ResumeTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Resume</source>
-          <target state="new">Resume</target>
+          <target state="translated">Пуск</target>
         </trans-unit>
         <trans-unit id="StopTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Stop</source>
-          <target state="new">Stop</target>
+          <target state="translated">Стоп</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="InfoPivot.Header" translate="yes" xml:space="preserve">
           <source>Info</source>
-          <target state="new">Info</target>
+          <target state="translated">Инфо</target>
         </trans-unit>
         <trans-unit id="OptionsPivot.Header" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="new">Options</target>
+          <target state="translated">Опции</target>
         </trans-unit>
         <trans-unit id="SavePathLabel.Text" translate="yes" xml:space="preserve">
           <source>Save path</source>
-          <target state="new">Save path</target>
+          <target state="translated">Сохранить путь</target>
         </trans-unit>
         <trans-unit id="ShowANotificationWhenDownloadFinishToggleButton.Content" translate="yes" xml:space="preserve">
           <source>Show a notification when download finish</source>
-          <target state="new">Show a notification when download finish</target>
+          <target state="translated">Показать уведомление по завершении загрузки</target>
         </trans-unit>
         <trans-unit id="StartTransferImmediatelyToggleButton.Content" translate="yes" xml:space="preserve">
           <source>Start transfer immediately</source>
-          <target state="new">Start transfer immediately</target>
+          <target state="translated">Начать загрузку немедленно</target>
         </trans-unit>
         <trans-unit id="TorrentCommentsLabel.Text" translate="yes" xml:space="preserve">
           <source>Comments</source>
-          <target state="new">Comments</target>
+          <target state="translated">Комментарий</target>
         </trans-unit>
         <trans-unit id="TorrentCreatedByLabel.Text" translate="yes" xml:space="preserve">
           <source>Created By</source>
-          <target state="new">Created By</target>
+          <target state="translated">Создано в</target>
         </trans-unit>
         <trans-unit id="TorrentDownloadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
           <source>Download speed limit</source>
-          <target state="new">Download speed limit</target>
+          <target state="translated">Лимит скорости приема</target>
         </trans-unit>
         <trans-unit id="TorrentFilesCountLabel.Text" translate="yes" xml:space="preserve">
           <source>Files</source>
-          <target state="new">Files</target>
+          <target state="translated">Файлов</target>
         </trans-unit>
         <trans-unit id="TorrentHashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="new">Hash</target>
+          <target state="translated">Хеш-сумма</target>
         </trans-unit>
         <trans-unit id="TorrentSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Size</source>
-          <target state="new">Size</target>
+          <target state="translated">Размер</target>
         </trans-unit>
         <trans-unit id="TorrentUploadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
           <source>Upload speed limit</source>
-          <target state="new">Upload speed limit</target>
+          <target state="translated">Лимит скорости отдачи</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="EmptyFileListMessage.Text" translate="yes" xml:space="preserve">
           <source>Empty file list</source>
-          <target state="new">Empty file list</target>
+          <target state="translated">Пустой список файлов</target>
         </trans-unit>
         <trans-unit id="FilePriorityMenu.Text" translate="yes" xml:space="preserve">
           <source>Priority</source>
-          <target state="new">Priority</target>
+          <target state="translated">Приоритет</target>
         </trans-unit>
         <trans-unit id="FileSearchBox.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Search for files</source>
-          <target state="new">Search for files</target>
+          <target state="translated">Поиск файлов</target>
         </trans-unit>
         <trans-unit id="ViewMenu.Text" translate="yes" xml:space="preserve">
           <source>View</source>
-          <target state="new">View</target>
+          <target state="translated">Вид</target>
         </trans-unit>
         <trans-unit id="ViewMenuDetails.Text" translate="yes" xml:space="preserve">
           <source>Details</source>
-          <target state="new">Details</target>
+          <target state="translated">Таблица</target>
         </trans-unit>
         <trans-unit id="ViewMenuGrid.Text" translate="yes" xml:space="preserve">
           <source>Grid</source>
-          <target state="new">Grid</target>
+          <target state="translated">Сетка</target>
         </trans-unit>
         <trans-unit id="ViewMenuList.Text" translate="yes" xml:space="preserve">
           <source>List</source>
-          <target state="new">List</target>
+          <target state="translated">Списко</target>
         </trans-unit>
         <trans-unit id="ViewMenuTree.Text" translate="yes" xml:space="preserve">
           <source>Tree</source>
-          <target state="new">Tree</target>
+          <target state="translated">Дерево</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" datatype="resx">
         <trans-unit id="BandwidthLimitSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Bandwidth limit</source>
-          <target state="new">Bandwidth limit</target>
+          <target state="translated">Ограничение скорости</target>
         </trans-unit>
         <trans-unit id="DownloadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Download</source>
-          <target state="new">Download</target>
+          <target state="translated">Приема</target>
         </trans-unit>
         <trans-unit id="DownloadedLabel.Text" translate="yes" xml:space="preserve">
           <source>Downloaded</source>
-          <target state="new">Downloaded</target>
+          <target state="translated">Загружено</target>
         </trans-unit>
         <trans-unit id="DownloadSpeedLabel.Text" translate="yes" xml:space="preserve">
           <source>Download speed</source>
-          <target state="new">Download speed</target>
+          <target state="translated">Скорость загрузки</target>
         </trans-unit>
         <trans-unit id="ETALabel.Text" translate="yes" xml:space="preserve">
           <source>ETA</source>
-          <target state="new">ETA</target>
+          <target state="translated">Время</target>
         </trans-unit>
         <trans-unit id="FilesLabel.Text" translate="yes" xml:space="preserve">
           <source>Files</source>
-          <target state="new">Files</target>
+          <target state="translated">Файлов</target>
         </trans-unit>
         <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve">
           <source>Folder</source>
-          <target state="new">Folder</target>
+          <target state="translated">Каталог</target>
         </trans-unit>
         <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="new">Hash</target>
+          <target state="translated">Хеш-сумма</target>
         </trans-unit>
         <trans-unit id="LeechersLabel.Text" translate="yes" xml:space="preserve">
           <source>Leechers</source>
-          <target state="new">Leechers</target>
+          <target state="translated">Личеров</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="new">Notifications</target>
+          <target state="translated">Уведомления</target>
         </trans-unit>
         <trans-unit id="PeersLabel.Text" translate="yes" xml:space="preserve">
           <source>Peers</source>
-          <target state="new">Peers</target>
+          <target state="translated">Пиров</target>
         </trans-unit>
         <trans-unit id="PiecesLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces</source>
-          <target state="new">Pieces</target>
+          <target state="translated">Частей</target>
         </trans-unit>
         <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces length</source>
-          <target state="new">Pieces length</target>
+          <target state="translated">Размер части</target>
         </trans-unit>
         <trans-unit id="SeedsLabel.Text" translate="yes" xml:space="preserve">
           <source>Seeds</source>
-          <target state="new">Seeds</target>
+          <target state="translated">Сидов</target>
         </trans-unit>
         <trans-unit id="TorrentInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Torrent Info</source>
-          <target state="new">Torrent Info</target>
+          <target state="translated">Информация о торренте</target>
         </trans-unit>
         <trans-unit id="TotalSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Total size</source>
-          <target state="new">Total size</target>
+          <target state="translated">Общий размер</target>
         </trans-unit>
         <trans-unit id="TransferInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Transfer info</source>
-          <target state="new">Transfer info</target>
+          <target state="translated">Информация о загрузке</target>
         </trans-unit>
         <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload</source>
-          <target state="new">Upload</target>
+          <target state="translated">Отдача</target>
         </trans-unit>
         <trans-unit id="UploadedLabel.Text" translate="yes" xml:space="preserve">
           <source>Uploaded</source>
-          <target state="new">Uploaded</target>
+          <target state="translated">Отдано</target>
         </trans-unit>
         <trans-unit id="UploadSpeedLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload speed</source>
-          <target state="new">Upload speed</target>
+          <target state="translated">Скорость отдачи</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="NavViewItemAbout.Text" translate="yes" xml:space="preserve">
           <source>About</source>
-          <target state="new">About</target>
+          <target state="translated">О программе</target>
         </trans-unit>
         <trans-unit id="NavViewItemOverview.Text" translate="yes" xml:space="preserve">
           <source>Overview</source>
-          <target state="new">Overview</target>
+          <target state="translated">Общие</target>
         </trans-unit>
         <trans-unit id="NavViewItemPersonalization.Text" translate="yes" xml:space="preserve">
           <source>Personalization</source>
-          <target state="new">Personalization</target>
+          <target state="translated">Персонализация</target>
         </trans-unit>
         <trans-unit id="NavViewItemSuporteTheDev.Text" translate="yes" xml:space="preserve">
           <source>Support the development</source>
-          <target state="new">Support the development</target>
+          <target state="translated">Поддержать разработчика</target>
         </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="new">Settings</target>
+          <target state="translated">Параметры</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AllowLocalPeerDiscoveryLabel.Text" translate="yes" xml:space="preserve">
           <source>Allow local peer discovery</source>
-          <target state="new">Allow local peer discovery</target>
+          <target state="translated">Разрешить обнаружение локальных пиров</target>
         </trans-unit>
         <trans-unit id="AutoHideSectionDescription.Text" translate="yes" xml:space="preserve">
           <source>The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</source>
-          <target state="new">The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</target>
+          <target state="translated">Опция автоматического скрытия позволяет приложению работать в фоновом режиме. Чтобы снова показать приложение, щелкните по иконке в системном трее</target>
         </trans-unit>
         <trans-unit id="AutoHideSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Auto-hide options</source>
-          <target state="new">Auto-hide options</target>
+          <target state="translated">Опции автоскрытия</target>
         </trans-unit>
         <trans-unit id="AutoHideWhenClosedLabel.Text" translate="yes" xml:space="preserve">
           <source>Hide when closed</source>
-          <target state="new">Hide when closed</target>
+          <target state="translated">Скрывать при закрытии</target>
         </trans-unit>
         <trans-unit id="AutoHideWhenMinimizedLabel.Text" translate="yes" xml:space="preserve">
           <source>Hide when minimized</source>
-          <target state="new">Hide when minimized</target>
+          <target state="translated">Скрывать при сворачивании</target>
         </trans-unit>
         <trans-unit id="DefaultDownloadFolderLabel.Text" translate="yes" xml:space="preserve">
           <source>Default download folder</source>
-          <target state="new">Default download folder</target>
+          <target state="translated">Каталог загрузки по-умолчанию</target>
         </trans-unit>
         <trans-unit id="DiskCacheSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Disk cache size</source>
-          <target state="new">Disk cache size</target>
+          <target state="translated">Размер дискового кэша</target>
         </trans-unit>
         <trans-unit id="GeneralSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>General</source>
-          <target state="new">General</target>
+          <target state="translated">Основные</target>
         </trans-unit>
         <trans-unit id="MaximumConnectionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Maximum connections</source>
-          <target state="new">Maximum connections</target>
+          <target state="translated">Максимальное число соединений</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedInfoBar.Message" translate="yes" xml:space="preserve">
           <source>This option may have been blocked by the system settings or by a Group Policy</source>
-          <target state="new">This option may have been blocked by the system settings or by a Group Policy</target>
+          <target state="translated">Этот параметр может быть заблокирован системными настройками или групповой политикой</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedInfoBar.Title" translate="yes" xml:space="preserve">
           <source>System settings prevent you from changing this option</source>
-          <target state="new">System settings prevent you from changing this option</target>
+          <target state="translated">Системные настройки не позволяют изменить этот параметр</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedOpenSettingsButton.Content" translate="yes" xml:space="preserve">
           <source>Open settings</source>
-          <target state="new">Open settings</target>
+          <target state="translated">Открыть настройки</target>
         </trans-unit>
         <trans-unit id="StartupTaskStartHiddenCheckbox.Content" translate="yes" xml:space="preserve">
           <source>Start minimized in the System Tray</source>
-          <target state="new">Start minimized in the System Tray</target>
+          <target state="translated">Запускать свернутым в системный трей</target>
         </trans-unit>
         <trans-unit id="StartupTaskTitle.Text" translate="yes" xml:space="preserve">
           <source>Start ByteStream with Windows</source>
-          <target state="new">Start ByteStream with Windows</target>
+          <target state="translated">Запускать ByteStream вместе Windows</target>
         </trans-unit>
         <trans-unit id="TorrentsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Torrents</source>
-          <target state="new">Torrents</target>
+          <target state="translated">Торренты</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AppBackdropAcrylicLabel.Text" translate="yes" xml:space="preserve">
           <source>Acrylic</source>
-          <target state="new">Acrylic</target>
+          <target state="translated">Acrylic</target>
         </trans-unit>
         <trans-unit id="AppBackdropEffectLabel.Text" translate="yes" xml:space="preserve">
           <source>Backdrop effect</source>
-          <target state="new">Backdrop effect</target>
+          <target state="translated">Backdrop effect</target>
         </trans-unit>
         <trans-unit id="AppBackdropMicaLabel.Text" translate="yes" xml:space="preserve">
           <source>Mica</source>
-          <target state="new">Mica</target>
+          <target state="translated">Mica</target>
         </trans-unit>
         <trans-unit id="AppBackdropSolidLabel.Text" translate="yes" xml:space="preserve">
           <source>Solid</source>
-          <target state="new">Solid</target>
+          <target state="translated">Solid</target>
         </trans-unit>
         <trans-unit id="AppearanceSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Appearance</source>
-          <target state="new">Appearance</target>
+          <target state="translated">Внешний вид</target>
         </trans-unit>
         <trans-unit id="AppThemeDarkLabel.Text" translate="yes" xml:space="preserve">
           <source>Dark</source>
-          <target state="new">Dark</target>
+          <target state="translated">Тёмный</target>
         </trans-unit>
         <trans-unit id="AppThemeDefaultLabel.Text" translate="yes" xml:space="preserve">
           <source>Windows Default</source>
-          <target state="new">Windows Default</target>
+          <target state="translated">Системная Windows</target>
         </trans-unit>
         <trans-unit id="AppThemeLightLabel.Text" translate="yes" xml:space="preserve">
           <source>Light</source>
-          <target state="new">Light</target>
+          <target state="translated">Светлый</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="new">Notifications</target>
+          <target state="translated">Уведомления</target>
         </trans-unit>
         <trans-unit id="PlaySoundButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Play sound</source>
-          <target state="new">Play sound</target>
+          <target state="translated">Проиграть звук</target>
         </trans-unit>
         <trans-unit id="SelectTheAppThemeLabel.Text" translate="yes" xml:space="preserve">
           <source>Select the app theme</source>
-          <target state="new">Select the app theme</target>
+          <target state="translated">Выберите тему приложения</target>
         </trans-unit>
         <trans-unit id="SelectTheNotificationSoundDescription.Text" translate="yes" xml:space="preserve">
           <source>Select the sound that will play when ByteStream sends a notification</source>
-          <target state="new">Select the sound that will play when ByteStream sends a notification</target>
+          <target state="translated">Выберите звук уведомления</target>
         </trans-unit>
         <trans-unit id="SelectTheNotificationSoundLabel.Text" translate="yes" xml:space="preserve">
           <source>Notification sound</source>
-          <target state="new">Notification sound</target>
+          <target state="translated">Звуковое уведомление</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AddTorrentButton.Text" translate="yes" xml:space="preserve">
           <source>Add torrent</source>
-          <target state="new">Add torrent</target>
+          <target state="translated">Добавить торрент</target>
         </trans-unit>
         <trans-unit id="AddTorrentButtonFile.Text" translate="yes" xml:space="preserve">
           <source>File</source>
-          <target state="new">File</target>
+          <target state="translated">Файл</target>
         </trans-unit>
         <trans-unit id="AddTorrentButtonMagnetLink.Text" translate="yes" xml:space="preserve">
           <source>Magnet link</source>
-          <target state="new">Magnet link</target>
+          <target state="translated">Magnet-ссылка</target>
         </trans-unit>
         <trans-unit id="MinimizeToTrayButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Minimize to Tray</source>
-          <target state="new">Minimize to Tray</target>
+          <target state="translated">Свернуть в трей</target>
         </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Main page</source>
-          <target state="new">Main page</target>
+          <target state="translated">Главное окно</target>
         </trans-unit>
         <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="new">Settings</target>
+          <target state="translated">Настройка</target>
         </trans-unit>
       </group>
     </body>
