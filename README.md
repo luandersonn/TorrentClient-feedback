@@ -26,7 +26,7 @@
 | it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
