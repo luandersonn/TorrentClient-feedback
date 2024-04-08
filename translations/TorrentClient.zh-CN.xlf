@@ -12,7 +12,7 @@
         </trans-unit>
         <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Are you sure you want to remove this torrent?</source>
-          <target state="translated">您确定要删除此 torrent 吗？</target>
+          <target state="translated">确定要删除此torrent？</target>
         </trans-unit>
         <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve">
           <source>Delete...</source>
