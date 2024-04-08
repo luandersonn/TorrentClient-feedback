@@ -8,7 +8,7 @@
       <group id="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" datatype="resx">
         <trans-unit id="DeleteDownloadedFilesCheckboxLabel.Text" translate="yes" xml:space="preserve">
           <source>Delete downloaded files</source>
-          <target state="translated">删除下载的文件</target>
+          <target state="translated">删除本地文件</target>
         </trans-unit>
         <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Are you sure you want to remove this torrent?</source>
@@ -196,12 +196,12 @@
         </trans-unit>
         <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
           <source>Seeding</source>
-          <target state="translated">发送中</target>
+          <target state="translated">做种中</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
         </trans-unit>
         <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
           <source>Starting</source>
-          <target state="translated">正在开始</target>
+          <target state="translated">启动中</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
         </trans-unit>
         <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
@@ -211,7 +211,7 @@
         </trans-unit>
         <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
           <source>Stopping</source>
-          <target state="translated">正在暂停</target>
+          <target state="translated">暂停中</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
         </trans-unit>
         <trans-unit id="TransferLimitUnlimited" translate="yes" xml:space="preserve">
@@ -238,7 +238,7 @@
         </trans-unit>
         <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
-          <target state="translated">打开Microsoft Store</target>
+          <target state="translated">在打开Microsoft Store</target>
         </trans-unit>
         <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve">
           <source>Share on social networks</source>
@@ -430,15 +430,15 @@
         </trans-unit>
         <trans-unit id="PiecesLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces</source>
-          <target state="translated">Pieces</target>
+          <target state="translated">总片数</target>
         </trans-unit>
         <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces length</source>
-          <target state="translated">Pieces length</target>
+          <target state="translated">片大小</target>
         </trans-unit>
         <trans-unit id="SeedsLabel.Text" translate="yes" xml:space="preserve">
           <source>Seeds</source>
-          <target state="translated">做种</target>
+          <target state="translated">做种者</target>
         </trans-unit>
         <trans-unit id="TorrentInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Torrent Info</source>
@@ -450,7 +450,7 @@
         </trans-unit>
         <trans-unit id="TransferInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Transfer info</source>
-          <target state="translated">传输形象</target>
+          <target state="translated">传输信息</target>
         </trans-unit>
         <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload</source>
@@ -504,7 +504,7 @@
       <group id="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AllowLocalPeerDiscoveryLabel.Text" translate="yes" xml:space="preserve">
           <source>Allow local peer discovery</source>
-          <target state="translated">启用本地对等体发现</target>
+          <target state="translated">启用本地节点发现</target>
         </trans-unit>
         <trans-unit id="AutoHideSectionDescription.Text" translate="yes" xml:space="preserve">
           <source>The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</source>
