@@ -16,7 +16,7 @@
         </trans-unit>
         <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve">
           <source>Delete...</source>
-          <target state="translated">删除...</target>
+          <target state="translated">删除</target>
         </trans-unit>
       </group>
     </body>
@@ -45,7 +45,7 @@
         </trans-unit>
         <trans-unit id="BrowseButton.Text" translate="yes" xml:space="preserve">
           <source>Browse...</source>
-          <target state="translated">浏览...</target>
+          <target state="translated">浏览</target>
         </trans-unit>
         <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
           <source>Cancel</source>
@@ -109,7 +109,7 @@
         </trans-unit>
         <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve">
           <source>Save file...</source>
-          <target state="translated">保存...</target>
+          <target state="translated">保存</target>
         </trans-unit>
         <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve">
           <source>Select all</source>
