@@ -238,7 +238,7 @@
         </trans-unit>
         <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
-          <target state="translated">在打开Microsoft Store</target>
+          <target state="translated">在Microsoft Store打开</target>
         </trans-unit>
         <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve">
           <source>Share on social networks</source>
