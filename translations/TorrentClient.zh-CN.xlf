@@ -324,7 +324,7 @@
         </trans-unit>
         <trans-unit id="TorrentHashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="translated">Hash</target>
+          <target state="translated">哈希值</target>
         </trans-unit>
         <trans-unit id="TorrentSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Size</source>
@@ -414,7 +414,7 @@
         </trans-unit>
         <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="translated">Hash</target>
+          <target state="translated">哈希值</target>
         </trans-unit>
         <trans-unit id="LeechersLabel.Text" translate="yes" xml:space="preserve">
           <source>Leechers</source>
