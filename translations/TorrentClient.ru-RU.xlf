@@ -111,7 +111,7 @@
         </trans-unit>
         <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve">
           <source>Save file...</source>
-          <target state="translated">Сохранить файл...</target>
+          <target state="translated">Сохранить torrent файл...</target>
         </trans-unit>
         <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve">
           <source>Select all</source>
@@ -298,7 +298,7 @@
         </trans-unit>
         <trans-unit id="SavePathLabel.Text" translate="yes" xml:space="preserve">
           <source>Save path</source>
-          <target state="translated">Сохранить путь</target>
+          <target state="translated">Сохранить в</target>
         </trans-unit>
         <trans-unit id="ShowANotificationWhenDownloadFinishToggleButton.Content" translate="yes" xml:space="preserve">
           <source>Show a notification when download finish</source>
