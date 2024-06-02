@@ -371,7 +371,7 @@
         </trans-unit>
         <trans-unit id="ViewMenuList.Text" translate="yes" xml:space="preserve">
           <source>List</source>
-          <target state="translated">Списко</target>
+          <target state="translated">Список</target>
         </trans-unit>
         <trans-unit id="ViewMenuTree.Text" translate="yes" xml:space="preserve">
           <source>Tree</source>
@@ -456,7 +456,7 @@
         </trans-unit>
         <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload</source>
-          <target state="translated">Отдача</target>
+          <target state="translated">Отдачи</target>
         </trans-unit>
         <trans-unit id="UploadedLabel.Text" translate="yes" xml:space="preserve">
           <source>Uploaded</source>
