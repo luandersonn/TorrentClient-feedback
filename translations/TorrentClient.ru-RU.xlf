@@ -558,7 +558,7 @@
         </trans-unit>
         <trans-unit id="StartupTaskTitle.Text" translate="yes" xml:space="preserve">
           <source>Start ByteStream with Windows</source>
-          <target state="translated">Запускать ByteStream вместе Windows</target>
+          <target state="translated">Запускать ByteStream вместе с Windows</target>
         </trans-unit>
         <trans-unit id="TorrentsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Torrents</source>
@@ -595,7 +595,7 @@
         </trans-unit>
         <trans-unit id="AppThemeDarkLabel.Text" translate="yes" xml:space="preserve">
           <source>Dark</source>
-          <target state="translated">Тёмный</target>
+          <target state="translated">Тёмная</target>
         </trans-unit>
         <trans-unit id="AppThemeDefaultLabel.Text" translate="yes" xml:space="preserve">
           <source>Windows Default</source>
@@ -603,7 +603,7 @@
         </trans-unit>
         <trans-unit id="AppThemeLightLabel.Text" translate="yes" xml:space="preserve">
           <source>Light</source>
-          <target state="translated">Светлый</target>
+          <target state="translated">Светлая</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
