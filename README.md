@@ -23,7 +23,7 @@
 | de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/91)
 | fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | pl-PL | Polish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
