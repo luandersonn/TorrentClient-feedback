@@ -1,660 +1,660 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" datatype="resx">
-        <trans-unit id="DeleteDownloadedFilesCheckboxLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DeleteDownloadedFilesCheckboxLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Delete downloaded files</source>
-          <target state="new">Delete downloaded files</target>
+          <target state="final">Elimina file scaricati</target>
         </trans-unit>
-        <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve">
+        <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve" approved="yes">
           <source>Are you sure you want to remove this torrent?</source>
-          <target state="new">Are you sure you want to remove this torrent?</target>
+          <target state="final">Sei sicuro di voler rimuovere questo torrent?</target>
         </trans-unit>
-        <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Delete...</source>
-          <target state="new">Delete...</target>
+          <target state="final">Elimina...</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
-        <trans-unit id="ActiveTorrentsCountIconTrayTooltip" translate="yes" xml:space="preserve">
+        <trans-unit id="ActiveTorrentsCountIconTrayTooltip" translate="yes" xml:space="preserve" approved="yes">
           <source>Active torrents: {0}</source>
-          <target state="new">Active torrents: {0}</target>
+          <target state="final">Torrent attivi: {0}</target>
         </trans-unit>
-        <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>A torrent client for Windows 11</source>
-          <target state="new">A torrent client for Windows 11</target>
+          <target state="final">Un client torrent per Windows 11</target>
         </trans-unit>
-        <trans-unit id="AppName.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppName.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>ByteStream Torrent</source>
-          <target state="new">ByteStream Torrent</target>
+          <target state="final">ByteStream Torrent</target>
         </trans-unit>
-        <trans-unit id="AppShortName.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppShortName.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>ByteStream</source>
-          <target state="new">ByteStream</target>
+          <target state="final">ByteStream</target>
         </trans-unit>
-        <trans-unit id="BrowseButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="BrowseButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Browse...</source>
-          <target state="new">Browse...</target>
+          <target state="final">Sfoglia...</target>
         </trans-unit>
-        <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Cancel</source>
-          <target state="new">Cancel</target>
+          <target state="final">Annulla</target>
         </trans-unit>
-        <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Close</source>
-          <target state="new">Close</target>
+          <target state="final">Chiudi</target>
         </trans-unit>
-        <trans-unit id="CopyMagnetLinkButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="CopyMagnetLinkButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Copy magnet link</source>
-          <target state="new">Copy magnet link</target>
+          <target state="final">Copia collegamento magnet</target>
         </trans-unit>
-        <trans-unit id="DeleteButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DeleteButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="final">Elimina</target>
         </trans-unit>
-        <trans-unit id="DownloadButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DownloadButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Download</source>
-          <target state="new">Download</target>
+          <target state="final">Scarica</target>
         </trans-unit>
-        <trans-unit id="DownloadCompleteNotificationMessage" translate="yes" xml:space="preserve">
+        <trans-unit id="DownloadCompleteNotificationMessage" translate="yes" xml:space="preserve" approved="yes">
           <source>Download complete</source>
-          <target state="new">Download complete</target>
+          <target state="final">Download completo</target>
         </trans-unit>
-        <trans-unit id="ExitAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ExitAppTrayIconMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Exit</source>
-          <target state="new">Exit</target>
+          <target state="final">Esci</target>
         </trans-unit>
-        <trans-unit id="HideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="HideAppTrayIconMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hide app</source>
-          <target state="new">Hide app</target>
+          <target state="final">Nascondi app</target>
         </trans-unit>
-        <trans-unit id="NoActiveTorrentsIconTrayTooltip" translate="yes" xml:space="preserve">
+        <trans-unit id="NoActiveTorrentsIconTrayTooltip" translate="yes" xml:space="preserve" approved="yes">
           <source>No active torrents</source>
-          <target state="new">No active torrents</target>
+          <target state="final">Nessun torrent attivo</target>
         </trans-unit>
-        <trans-unit id="OpenButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Open</source>
-          <target state="new">Open</target>
+          <target state="final">Apri</target>
         </trans-unit>
-        <trans-unit id="OpenFolderButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenFolderButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Open folder</source>
-          <target state="new">Open folder</target>
+          <target state="final">Apri cartella</target>
         </trans-unit>
-        <trans-unit id="OpenTorrentDialog.Title" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenTorrentDialog.Title" translate="yes" xml:space="preserve" approved="yes">
           <source>Open torrent</source>
-          <target state="new">Open torrent</target>
+          <target state="final">Apri torrent</target>
         </trans-unit>
-        <trans-unit id="PauseButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="PauseButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Pause</source>
-          <target state="new">Pause</target>
+          <target state="final">Pausa</target>
         </trans-unit>
-        <trans-unit id="RemoveButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="RemoveButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Remove</source>
-          <target state="new">Remove</target>
+          <target state="final">Rimuovi</target>
         </trans-unit>
-        <trans-unit id="ResumeButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ResumeButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Resume</source>
-          <target state="new">Resume</target>
+          <target state="final">Riprendi</target>
         </trans-unit>
-        <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Save file...</source>
-          <target state="new">Save file...</target>
+          <target state="final">Salva file...</target>
         </trans-unit>
-        <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Select all</source>
-          <target state="new">Select all</target>
+          <target state="final">Seleziona tutto</target>
         </trans-unit>
-        <trans-unit id="ShareButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ShareButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Share</source>
-          <target state="new">Share</target>
+          <target state="final">Condividi</target>
         </trans-unit>
-        <trans-unit id="ShowAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ShowAppTrayIconMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Show app</source>
-          <target state="new">Show app</target>
+          <target state="final">Mostra app</target>
         </trans-unit>
-        <trans-unit id="ShowHideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ShowHideAppTrayIconMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Show/Hide</source>
-          <target state="new">Show/Hide</target>
+          <target state="final">Mostra/Nascondi</target>
         </trans-unit>
-        <trans-unit id="StopButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="StopButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Stop</source>
-          <target state="new">Stop</target>
+          <target state="final">Stop</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityDoNotDownload.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityDoNotDownload.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Do not download</source>
-          <target state="new">Do not download</target>
+          <target state="final">Non scaricare</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityHigh.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityHigh.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>High</source>
-          <target state="new">High</target>
+          <target state="final">Alta</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityHighest.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityHighest.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Highest</source>
-          <target state="new">Highest</target>
+          <target state="final">Massima</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityImmediate.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityImmediate.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Immediate</source>
-          <target state="new">Immediate</target>
+          <target state="final">Immediato</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityLow.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityLow.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Low</source>
-          <target state="new">Low</target>
+          <target state="final">Bassa</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityLowest.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityLowest.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Lowest</source>
-          <target state="new">Lowest</target>
+          <target state="final">Minima</target>
         </trans-unit>
-        <trans-unit id="TorrentPriorityNormal.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentPriorityNormal.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Normal</source>
-          <target state="new">Normal</target>
+          <target state="final">Normale</target>
         </trans-unit>
-        <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Completed</source>
-          <target state="new">Completed</target>
+          <target state="final">Completato</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has completed downloading all data</note>
         </trans-unit>
-        <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Downloading</source>
-          <target state="new">Downloading</target>
+          <target state="final">In download</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading data from peers</note>
         </trans-unit>
-        <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Error</source>
-          <target state="new">Error</target>
+          <target state="final">Errore</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has encountered an error and cannot continue</note>
         </trans-unit>
-        <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hashing</source>
-          <target state="new">Hashing</target>
+          <target state="final">Hashing</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data to verify integrity</note>
         </trans-unit>
-        <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hashing paused</source>
-          <target state="new">Hashing paused</target>
+          <target state="final">Hashing in pausa</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>
         </trans-unit>
-        <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Retrieving torrent details</source>
-          <target state="new">Retrieving torrent details</target>
+          <target state="final">Recupero dettagli torrent</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>
         </trans-unit>
-        <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Paused</source>
-          <target state="new">Paused</target>
+          <target state="final">In pausa</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is paused by the user</note>
         </trans-unit>
-        <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Seeding</source>
-          <target state="new">Seeding</target>
+          <target state="final">Seeding</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
         </trans-unit>
-        <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Starting</source>
-          <target state="new">Starting</target>
+          <target state="final">Avvio</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
         </trans-unit>
-        <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Stopped</source>
-          <target state="new">Stopped</target>
+          <target state="final">Interrotto</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopped and not active</note>
         </trans-unit>
-        <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Stopping</source>
-          <target state="new">Stopping</target>
+          <target state="final">Arresto</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
         </trans-unit>
-        <trans-unit id="TransferLimitUnlimited" translate="yes" xml:space="preserve">
+        <trans-unit id="TransferLimitUnlimited" translate="yes" xml:space="preserve" approved="yes">
           <source>Unlimited</source>
-          <target state="new">Unlimited</target>
+          <target state="final">Illimitato</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text displayed in the number box when the download or upload limit is unlimited.</note>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="DonateMoneyHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DonateMoneyHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Donate money</source>
-          <target state="new">Donate money</target>
+          <target state="final">Dona denaro</target>
         </trans-unit>
-        <trans-unit id="Give5StarRatingHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="Give5StarRatingHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Give 5-star rating</source>
-          <target state="new">Give 5-star rating</target>
+          <target state="final">Dai una valutazione a 5 stelle</target>
         </trans-unit>
-        <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve" approved="yes">
           <source>Open Microsoft Store</source>
-          <target state="new">Open Microsoft Store</target>
+          <target state="final">Apri Microsoft Store</target>
         </trans-unit>
-        <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Share on social networks</source>
-          <target state="new">Share on social networks</target>
+          <target state="final">Condividi sui social network</target>
         </trans-unit>
-        <trans-unit id="SupportTheDevPageDescription.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SupportTheDevPageDescription.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</source>
-          <target state="new">This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</target>
+          <target state="final">Questa app è gratuita, ma lo sviluppo ha costi (tempo e hardware). Ecco alcune delle cose che puoi fare per aiutare:</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" datatype="resx">
-        <trans-unit id="OpenDeleteTorrentDialogButton.Label" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenDeleteTorrentDialogButton.Label" translate="yes" xml:space="preserve" approved="yes">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="final">Elimina</target>
         </trans-unit>
-        <trans-unit id="OpenFolderButton.Label" translate="yes" xml:space="preserve">
+        <trans-unit id="OpenFolderButton.Label" translate="yes" xml:space="preserve" approved="yes">
           <source>Open folder</source>
-          <target state="new">Open folder</target>
+          <target state="final">Apri cartella</target>
         </trans-unit>
-        <trans-unit id="PauseTorrentButton.Label" translate="yes" xml:space="preserve">
+        <trans-unit id="PauseTorrentButton.Label" translate="yes" xml:space="preserve" approved="yes">
           <source>Pause</source>
-          <target state="new">Pause</target>
+          <target state="final">Pausa</target>
         </trans-unit>
-        <trans-unit id="ResumeTorrentButton.Label" translate="yes" xml:space="preserve">
+        <trans-unit id="ResumeTorrentButton.Label" translate="yes" xml:space="preserve" approved="yes">
           <source>Resume</source>
-          <target state="new">Resume</target>
+          <target state="final">Riprendi</target>
         </trans-unit>
-        <trans-unit id="StopTorrentButton.Label" translate="yes" xml:space="preserve">
+        <trans-unit id="StopTorrentButton.Label" translate="yes" xml:space="preserve" approved="yes">
           <source>Stop</source>
-          <target state="new">Stop</target>
+          <target state="final">Stop</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="InfoPivot.Header" translate="yes" xml:space="preserve">
+        <trans-unit id="InfoPivot.Header" translate="yes" xml:space="preserve" approved="yes">
           <source>Info</source>
-          <target state="new">Info</target>
+          <target state="final">Info</target>
         </trans-unit>
-        <trans-unit id="OptionsPivot.Header" translate="yes" xml:space="preserve">
+        <trans-unit id="OptionsPivot.Header" translate="yes" xml:space="preserve" approved="yes">
           <source>Options</source>
-          <target state="new">Options</target>
+          <target state="final">Opzioni</target>
         </trans-unit>
-        <trans-unit id="SavePathLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SavePathLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Save path</source>
-          <target state="new">Save path</target>
+          <target state="final">Percorso di salvataggio</target>
         </trans-unit>
-        <trans-unit id="ShowANotificationWhenDownloadFinishToggleButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="ShowANotificationWhenDownloadFinishToggleButton.Content" translate="yes" xml:space="preserve" approved="yes">
           <source>Show a notification when download finish</source>
-          <target state="new">Show a notification when download finish</target>
+          <target state="final">Mostra una notifica al termine del download</target>
         </trans-unit>
-        <trans-unit id="StartTransferImmediatelyToggleButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="StartTransferImmediatelyToggleButton.Content" translate="yes" xml:space="preserve" approved="yes">
           <source>Start transfer immediately</source>
-          <target state="new">Start transfer immediately</target>
+          <target state="final">Avvia immediatamente il trasferimento</target>
         </trans-unit>
-        <trans-unit id="TorrentCommentsLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentCommentsLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Comments</source>
-          <target state="new">Comments</target>
+          <target state="final">Commenti</target>
         </trans-unit>
-        <trans-unit id="TorrentCreatedByLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentCreatedByLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Created By</source>
-          <target state="new">Created By</target>
+          <target state="final">Creato da</target>
         </trans-unit>
-        <trans-unit id="TorrentDownloadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentDownloadSpeedLimitLabel.Header" translate="yes" xml:space="preserve" approved="yes">
           <source>Download speed limit</source>
-          <target state="new">Download speed limit</target>
+          <target state="final">Limite di velocità di download</target>
         </trans-unit>
-        <trans-unit id="TorrentFilesCountLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentFilesCountLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Files</source>
-          <target state="new">Files</target>
+          <target state="final">File</target>
         </trans-unit>
-        <trans-unit id="TorrentHashLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentHashLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hash</source>
-          <target state="new">Hash</target>
+          <target state="final">Hash</target>
         </trans-unit>
-        <trans-unit id="TorrentSizeLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentSizeLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Size</source>
-          <target state="new">Size</target>
+          <target state="final">Dimensione</target>
         </trans-unit>
-        <trans-unit id="TorrentUploadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentUploadSpeedLimitLabel.Header" translate="yes" xml:space="preserve" approved="yes">
           <source>Upload speed limit</source>
-          <target state="new">Upload speed limit</target>
+          <target state="final">Limite di velocità di upload</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="EmptyFileListMessage.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="EmptyFileListMessage.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Empty file list</source>
-          <target state="new">Empty file list</target>
+          <target state="final">Elenco file vuoto</target>
         </trans-unit>
-        <trans-unit id="FilePriorityMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="FilePriorityMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Priority</source>
-          <target state="new">Priority</target>
+          <target state="final">Priorità</target>
         </trans-unit>
-        <trans-unit id="FileSearchBox.PlaceholderText" translate="yes" xml:space="preserve">
+        <trans-unit id="FileSearchBox.PlaceholderText" translate="yes" xml:space="preserve" approved="yes">
           <source>Search for files</source>
-          <target state="new">Search for files</target>
+          <target state="final">Cerca file</target>
         </trans-unit>
-        <trans-unit id="ViewMenu.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ViewMenu.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>View</source>
-          <target state="new">View</target>
+          <target state="final">Visualizza</target>
         </trans-unit>
-        <trans-unit id="ViewMenuDetails.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ViewMenuDetails.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Details</source>
-          <target state="new">Details</target>
+          <target state="final">Dettagli</target>
         </trans-unit>
-        <trans-unit id="ViewMenuGrid.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ViewMenuGrid.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Grid</source>
-          <target state="new">Grid</target>
+          <target state="final">Griglia</target>
         </trans-unit>
-        <trans-unit id="ViewMenuList.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ViewMenuList.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>List</source>
-          <target state="new">List</target>
+          <target state="final">Elenco</target>
         </trans-unit>
-        <trans-unit id="ViewMenuTree.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ViewMenuTree.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Tree</source>
-          <target state="new">Tree</target>
+          <target state="final">Albero</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" datatype="resx">
-        <trans-unit id="BandwidthLimitSectionHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="BandwidthLimitSectionHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Bandwidth limit</source>
-          <target state="new">Bandwidth limit</target>
+          <target state="final">Limite larghezza di banda</target>
         </trans-unit>
-        <trans-unit id="DownloadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DownloadBandwithLimitLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Download</source>
-          <target state="new">Download</target>
+          <target state="final">Scarica</target>
         </trans-unit>
-        <trans-unit id="DownloadedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DownloadedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Downloaded</source>
-          <target state="new">Downloaded</target>
+          <target state="final">Scaricato</target>
         </trans-unit>
-        <trans-unit id="DownloadSpeedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DownloadSpeedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Download speed</source>
-          <target state="new">Download speed</target>
+          <target state="final">Velocità di download</target>
         </trans-unit>
-        <trans-unit id="ETALabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="ETALabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>ETA</source>
-          <target state="new">ETA</target>
+          <target state="final">ETA</target>
         </trans-unit>
-        <trans-unit id="FilesLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="FilesLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Files</source>
-          <target state="new">Files</target>
+          <target state="final">File</target>
         </trans-unit>
-        <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Folder</source>
-          <target state="new">Folder</target>
+          <target state="final">Cartella</target>
         </trans-unit>
-        <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hash</source>
-          <target state="new">Hash</target>
+          <target state="final">Hash</target>
         </trans-unit>
-        <trans-unit id="LeechersLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="LeechersLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Leechers</source>
-          <target state="new">Leechers</target>
+          <target state="final">Leechers</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="new">Notifications</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-tm">Notifiche</target>
         </trans-unit>
-        <trans-unit id="PeersLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="PeersLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Peers</source>
-          <target state="new">Peers</target>
+          <target state="final">Peers</target>
         </trans-unit>
-        <trans-unit id="PiecesLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="PiecesLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Pieces</source>
-          <target state="new">Pieces</target>
+          <target state="final">Pezzi</target>
         </trans-unit>
-        <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Pieces length</source>
-          <target state="new">Pieces length</target>
+          <target state="final">Lunghezza pezzi</target>
         </trans-unit>
-        <trans-unit id="SeedsLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SeedsLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Seeds</source>
-          <target state="new">Seeds</target>
+          <target state="final">Seeds</target>
         </trans-unit>
-        <trans-unit id="TorrentInfoSectionHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentInfoSectionHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Torrent Info</source>
-          <target state="new">Torrent Info</target>
+          <target state="final">Informazioni sui torrent</target>
         </trans-unit>
-        <trans-unit id="TotalSizeLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TotalSizeLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Total size</source>
-          <target state="new">Total size</target>
+          <target state="final">Dimensione totale</target>
         </trans-unit>
-        <trans-unit id="TransferInfoSectionHeader.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TransferInfoSectionHeader.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Transfer info</source>
-          <target state="new">Transfer info</target>
+          <target state="final">Informazioni sul trasferimento</target>
         </trans-unit>
-        <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Upload</source>
-          <target state="new">Upload</target>
+          <target state="final">Upload</target>
         </trans-unit>
-        <trans-unit id="UploadedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="UploadedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Uploaded</source>
-          <target state="new">Uploaded</target>
+          <target state="final">Caricato</target>
         </trans-unit>
-        <trans-unit id="UploadSpeedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="UploadSpeedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Upload speed</source>
-          <target state="new">Upload speed</target>
+          <target state="final">Velocità di caricamento</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="NavViewItemAbout.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="NavViewItemAbout.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>About</source>
-          <target state="new">About</target>
+          <target state="final">Informazioni</target>
         </trans-unit>
-        <trans-unit id="NavViewItemOverview.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="NavViewItemOverview.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Overview</source>
-          <target state="new">Overview</target>
+          <target state="final">Panoramica</target>
         </trans-unit>
-        <trans-unit id="NavViewItemPersonalization.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="NavViewItemPersonalization.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Personalization</source>
-          <target state="new">Personalization</target>
+          <target state="final">Personalizzazione</target>
         </trans-unit>
-        <trans-unit id="NavViewItemSuporteTheDev.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="NavViewItemSuporteTheDev.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Support the development</source>
-          <target state="new">Support the development</target>
+          <target state="final">Sostieni lo sviluppo</target>
         </trans-unit>
-        <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
+        <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve" approved="yes">
           <source>Settings</source>
-          <target state="new">Settings</target>
+          <target state="final">Impostazioni</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="AllowLocalPeerDiscoveryLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AllowLocalPeerDiscoveryLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Allow local peer discovery</source>
-          <target state="new">Allow local peer discovery</target>
+          <target state="final">Consenti la scoperta di peer locali</target>
         </trans-unit>
-        <trans-unit id="AutoHideSectionDescription.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AutoHideSectionDescription.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</source>
-          <target state="new">The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</target>
+          <target state="final">L'opzione di nascondimento automatico consente all'applicazione di rimanere in esecuzione in background. Per visualizzare nuovamente l'applicazione, fare clic sull'icona nella barra delle applicazioni</target>
         </trans-unit>
-        <trans-unit id="AutoHideSectionLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AutoHideSectionLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Auto-hide options</source>
-          <target state="new">Auto-hide options</target>
+          <target state="final">Nascondi automaticamente le opzioni</target>
         </trans-unit>
-        <trans-unit id="AutoHideWhenClosedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AutoHideWhenClosedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hide when closed</source>
-          <target state="new">Hide when closed</target>
+          <target state="final">Nascondi quando chiuso</target>
         </trans-unit>
-        <trans-unit id="AutoHideWhenMinimizedLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AutoHideWhenMinimizedLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Hide when minimized</source>
-          <target state="new">Hide when minimized</target>
+          <target state="final">Nascondi quando minimizzato</target>
         </trans-unit>
-        <trans-unit id="DefaultDownloadFolderLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DefaultDownloadFolderLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Default download folder</source>
-          <target state="new">Default download folder</target>
+          <target state="final">Cartella di download predefinita</target>
         </trans-unit>
-        <trans-unit id="DiskCacheSizeLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="DiskCacheSizeLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Disk cache size</source>
-          <target state="new">Disk cache size</target>
+          <target state="final">Dimensione della cache del disco</target>
         </trans-unit>
-        <trans-unit id="GeneralSectionLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="GeneralSectionLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>General</source>
-          <target state="new">General</target>
+          <target state="final">Generale</target>
         </trans-unit>
-        <trans-unit id="MaximumConnectionsLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="MaximumConnectionsLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Maximum connections</source>
-          <target state="new">Maximum connections</target>
+          <target state="final">Connessioni massime</target>
         </trans-unit>
-        <trans-unit id="StartupTaskBlockedInfoBar.Message" translate="yes" xml:space="preserve">
+        <trans-unit id="StartupTaskBlockedInfoBar.Message" translate="yes" xml:space="preserve" approved="yes">
           <source>This option may have been blocked by the system settings or by a Group Policy</source>
-          <target state="new">This option may have been blocked by the system settings or by a Group Policy</target>
+          <target state="final">Questa opzione potrebbe essere stata bloccata dalle impostazioni di sistema o da un criterio di gruppo</target>
         </trans-unit>
-        <trans-unit id="StartupTaskBlockedInfoBar.Title" translate="yes" xml:space="preserve">
+        <trans-unit id="StartupTaskBlockedInfoBar.Title" translate="yes" xml:space="preserve" approved="yes">
           <source>System settings prevent you from changing this option</source>
-          <target state="new">System settings prevent you from changing this option</target>
+          <target state="final">Le impostazioni del sistema impediscono di modificare questa opzione</target>
         </trans-unit>
-        <trans-unit id="StartupTaskBlockedOpenSettingsButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="StartupTaskBlockedOpenSettingsButton.Content" translate="yes" xml:space="preserve" approved="yes">
           <source>Open settings</source>
-          <target state="new">Open settings</target>
+          <target state="final">Apri impostazioni</target>
         </trans-unit>
-        <trans-unit id="StartupTaskStartHiddenCheckbox.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="StartupTaskStartHiddenCheckbox.Content" translate="yes" xml:space="preserve" approved="yes">
           <source>Start minimized in the System Tray</source>
-          <target state="new">Start minimized in the System Tray</target>
+          <target state="final">Avvio ridotto a icona nella barra delle applicazioni</target>
         </trans-unit>
-        <trans-unit id="StartupTaskTitle.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="StartupTaskTitle.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Start ByteStream with Windows</source>
-          <target state="new">Start ByteStream with Windows</target>
+          <target state="final">Avvia ByteStream con Windows</target>
         </trans-unit>
-        <trans-unit id="TorrentsSectionLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="TorrentsSectionLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Torrents</source>
-          <target state="new">Torrents</target>
+          <target state="final">Torrent</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AppBackdropAcrylicLabel.Text" translate="yes" xml:space="preserve">
           <source>Acrylic</source>
-          <target state="new">Acrylic</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-tm">Acrilico</target>
         </trans-unit>
-        <trans-unit id="AppBackdropEffectLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppBackdropEffectLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Backdrop effect</source>
-          <target state="new">Backdrop effect</target>
+          <target state="final">Effetto sfondo</target>
         </trans-unit>
         <trans-unit id="AppBackdropMicaLabel.Text" translate="yes" xml:space="preserve">
           <source>Mica</source>
-          <target state="new">Mica</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-tm">Mica</target>
         </trans-unit>
-        <trans-unit id="AppBackdropSolidLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppBackdropSolidLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Solid</source>
-          <target state="new">Solid</target>
+          <target state="final">Solido</target>
         </trans-unit>
-        <trans-unit id="AppearanceSectionLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppearanceSectionLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Appearance</source>
-          <target state="new">Appearance</target>
+          <target state="final">Aspetto</target>
         </trans-unit>
-        <trans-unit id="AppThemeDarkLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppThemeDarkLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Dark</source>
-          <target state="new">Dark</target>
+          <target state="final">Scuro</target>
         </trans-unit>
-        <trans-unit id="AppThemeDefaultLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppThemeDefaultLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Windows Default</source>
-          <target state="new">Windows Default</target>
+          <target state="final">Predefinito di Windows</target>
         </trans-unit>
-        <trans-unit id="AppThemeLightLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AppThemeLightLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Light</source>
-          <target state="new">Light</target>
+          <target state="final">Chiaro</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="new">Notifications</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-tm">Notifiche</target>
         </trans-unit>
-        <trans-unit id="PlaySoundButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+        <trans-unit id="PlaySoundButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve" approved="yes">
           <source>Play sound</source>
-          <target state="new">Play sound</target>
+          <target state="final">Riproduci suono</target>
         </trans-unit>
-        <trans-unit id="SelectTheAppThemeLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SelectTheAppThemeLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Select the app theme</source>
-          <target state="new">Select the app theme</target>
+          <target state="final">Seleziona il tema dell'app</target>
         </trans-unit>
-        <trans-unit id="SelectTheNotificationSoundDescription.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SelectTheNotificationSoundDescription.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Select the sound that will play when ByteStream sends a notification</source>
-          <target state="new">Select the sound that will play when ByteStream sends a notification</target>
+          <target state="final">Seleziona il suono che verrà riprodotto quando ByteStream invia una notifica</target>
         </trans-unit>
-        <trans-unit id="SelectTheNotificationSoundLabel.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="SelectTheNotificationSoundLabel.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Notification sound</source>
-          <target state="new">Notification sound</target>
+          <target state="final">Suono di notifica</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" datatype="resx">
-        <trans-unit id="AddTorrentButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AddTorrentButton.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Add torrent</source>
-          <target state="new">Add torrent</target>
+          <target state="final">Aggiungi torrent</target>
         </trans-unit>
-        <trans-unit id="AddTorrentButtonFile.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AddTorrentButtonFile.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>File</source>
-          <target state="new">File</target>
+          <target state="final">File</target>
         </trans-unit>
-        <trans-unit id="AddTorrentButtonMagnetLink.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="AddTorrentButtonMagnetLink.Text" translate="yes" xml:space="preserve" approved="yes">
           <source>Magnet link</source>
-          <target state="new">Magnet link</target>
+          <target state="final">Collegamento magnet</target>
         </trans-unit>
         <trans-unit id="MinimizeToTrayButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Minimize to Tray</source>
-          <target state="new">Minimize to Tray</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-tm">Riduci nell'area di notifica</target>
         </trans-unit>
-        <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
+        <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve" approved="yes">
           <source>Main page</source>
-          <target state="new">Main page</target>
+          <target state="final">Pagina principale</target>
         </trans-unit>
-        <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+        <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve" approved="yes">
           <source>Settings</source>
-          <target state="new">Settings</target>
+          <target state="final">Impostazioni</target>
         </trans-unit>
       </group>
     </body>
