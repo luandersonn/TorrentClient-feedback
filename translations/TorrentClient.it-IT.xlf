@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -21,7 +21,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -222,7 +222,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -251,7 +251,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -280,7 +280,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -337,7 +337,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -378,7 +378,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -467,7 +467,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -496,7 +496,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -565,7 +565,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
@@ -626,7 +626,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en" target-language="it" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="it-IT" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
