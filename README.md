@@ -26,3 +26,5 @@
 | pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
 | ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
 | zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
+| sv-SE | Swedish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
+
