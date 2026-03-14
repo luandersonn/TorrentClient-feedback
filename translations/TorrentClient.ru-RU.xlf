@@ -690,7 +690,7 @@
         </trans-unit>
         <trans-unit id="NewFeatureTip.Subtitle" translate="yes" xml:space="preserve">
           <source>You can now shut down your PC automatically after downloads</source>
-          <target state="translated">Теперь вы можете выключить компьютер после завершения загрузок</target>
+          <target state="translated">Теперь вы можете выключить компьютер автоматически после завершения загрузок</target>
         </trans-unit>
         <trans-unit id="ShutdownAfterDownloads.Text" translate="yes" xml:space="preserve">
           <source>Shut down after downloads complete</source>
