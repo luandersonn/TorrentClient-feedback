@@ -1,659 +1,659 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="DonateMoneyHeader.Text" translate="yes" xml:space="preserve">
           <source>Donate money</source>
-          <target state="translated">Támogatás</target>
+          <target state="new">Donate money</target>
         </trans-unit>
         <trans-unit id="Give5StarRatingHeader.Text" translate="yes" xml:space="preserve">
           <source>Give 5-star rating</source>
-          <target state="translated">Értékeld 5 csillagosra!</target>
+          <target state="new">Give 5-star rating</target>
         </trans-unit>
         <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
-          <target state="translated">Microsoft Store­ megnyitása</target>
+          <target state="new">Open Microsoft Store</target>
         </trans-unit>
         <trans-unit id="ShareOnSocialNetworkHeader.Text" translate="yes" xml:space="preserve">
           <source>Share on social networks</source>
-          <target state="translated">Megosztás a közösségi médiában</target>
+          <target state="new">Share on social networks</target>
         </trans-unit>
         <trans-unit id="SupportTheDevPageDescription.Text" translate="yes" xml:space="preserve">
           <source>This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</source>
-          <target state="translated">Ez az alkalmazás ingyenes, azonban a fejlesztése időbe, energiába és pénzbe kerül. Itt van néhány ötlet, hogy hogyan támogathatod a fejlesztést:</target>
+          <target state="new">This app is free, but developing it has costs (time and hardware). Here are some of the things you can do to help:</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" datatype="resx">
         <trans-unit id="DeleteDownloadedFilesCheckboxLabel.Text" translate="yes" xml:space="preserve">
           <source>Delete downloaded files</source>
-          <target state="translated">Letöltött fájlok törlése</target>
+          <target state="new">Delete downloaded files</target>
         </trans-unit>
         <trans-unit id="DeleteTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Are you sure you want to remove this torrent?</source>
-          <target state="translated">Biztosan törölni szeretnéd ezt a torrentet?</target>
+          <target state="new">Are you sure you want to remove this torrent?</target>
         </trans-unit>
         <trans-unit id="ShowDeleteDialogCommand.Text" translate="yes" xml:space="preserve">
           <source>Delete...</source>
-          <target state="translated">Törlés...</target>
+          <target state="new">Delete...</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" datatype="resx">
         <trans-unit id="OpenDeleteTorrentDialogButton.Label" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="translated">Törlés</target>
+          <target state="new">Delete</target>
         </trans-unit>
         <trans-unit id="OpenFolderButton.Label" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="translated">Mappa megnyitása</target>
+          <target state="new">Open folder</target>
         </trans-unit>
         <trans-unit id="PauseTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Pause</source>
-          <target state="translated">Felfüggesztés</target>
+          <target state="new">Pause</target>
         </trans-unit>
         <trans-unit id="ResumeTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Resume</source>
-          <target state="translated">Folytatás</target>
+          <target state="new">Resume</target>
         </trans-unit>
         <trans-unit id="StopTorrentButton.Label" translate="yes" xml:space="preserve">
           <source>Stop</source>
-          <target state="translated">Stop</target>
+          <target state="new">Stop</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AppBackdropAcrylicLabel.Text" translate="yes" xml:space="preserve">
           <source>Acrylic</source>
-          <target state="translated">Akril</target>
+          <target state="new">Acrylic</target>
         </trans-unit>
         <trans-unit id="AppBackdropEffectLabel.Text" translate="yes" xml:space="preserve">
           <source>Backdrop effect</source>
-          <target state="translated">Háttér hatás</target>
+          <target state="new">Backdrop effect</target>
         </trans-unit>
         <trans-unit id="AppBackdropMicaLabel.Text" translate="yes" xml:space="preserve">
           <source>Mica</source>
-          <target state="translated">Mica</target>
+          <target state="new">Mica</target>
         </trans-unit>
         <trans-unit id="AppBackdropSolidLabel.Text" translate="yes" xml:space="preserve">
           <source>Solid</source>
-          <target state="translated">Kitöltött</target>
+          <target state="new">Solid</target>
         </trans-unit>
         <trans-unit id="AppearanceSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Appearance</source>
-          <target state="translated">Megjelenés</target>
+          <target state="new">Appearance</target>
         </trans-unit>
         <trans-unit id="AppThemeDarkLabel.Text" translate="yes" xml:space="preserve">
           <source>Dark</source>
-          <target state="translated">Sötét</target>
+          <target state="new">Dark</target>
         </trans-unit>
         <trans-unit id="AppThemeDefaultLabel.Text" translate="yes" xml:space="preserve">
           <source>Windows Default</source>
-          <target state="translated">Windows alapértelmezett</target>
+          <target state="new">Windows Default</target>
         </trans-unit>
         <trans-unit id="AppThemeLightLabel.Text" translate="yes" xml:space="preserve">
           <source>Light</source>
-          <target state="translated">Világos</target>
+          <target state="new">Light</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="translated">Értesítések</target>
+          <target state="new">Notifications</target>
         </trans-unit>
         <trans-unit id="PlaySoundButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Play sound</source>
-          <target state="translated">Hang lejátszása</target>
+          <target state="new">Play sound</target>
         </trans-unit>
         <trans-unit id="SelectTheAppThemeLabel.Text" translate="yes" xml:space="preserve">
           <source>Select the app theme</source>
-          <target state="translated">Alkalmazás kinézetének kiválasztása</target>
+          <target state="new">Select the app theme</target>
         </trans-unit>
         <trans-unit id="SelectTheNotificationSoundDescription.Text" translate="yes" xml:space="preserve">
           <source>Select the sound that will play when ByteStream sends a notification</source>
-          <target state="translated">Válaszd ki a ByteStream értesítési hangját</target>
+          <target state="new">Select the sound that will play when ByteStream sends a notification</target>
         </trans-unit>
         <trans-unit id="SelectTheNotificationSoundLabel.Text" translate="yes" xml:space="preserve">
           <source>Notification sound</source>
-          <target state="translated">Értesítési hang</target>
+          <target state="new">Notification sound</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="EmptyFileListMessage.Text" translate="yes" xml:space="preserve">
           <source>Empty file list</source>
-          <target state="translated">Fájl lista kiürítése</target>
+          <target state="new">Empty file list</target>
         </trans-unit>
         <trans-unit id="FilePriorityMenu.Text" translate="yes" xml:space="preserve">
           <source>Priority</source>
-          <target state="translated">Prioritás</target>
+          <target state="new">Priority</target>
         </trans-unit>
         <trans-unit id="FileSearchBox.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Search for files</source>
-          <target state="translated">Fájlok keresése</target>
+          <target state="new">Search for files</target>
         </trans-unit>
         <trans-unit id="ViewMenu.Text" translate="yes" xml:space="preserve">
           <source>View</source>
-          <target state="translated">Nézet</target>
+          <target state="new">View</target>
         </trans-unit>
         <trans-unit id="ViewMenuDetails.Text" translate="yes" xml:space="preserve">
           <source>Details</source>
-          <target state="translated">Részletek</target>
+          <target state="new">Details</target>
         </trans-unit>
         <trans-unit id="ViewMenuGrid.Text" translate="yes" xml:space="preserve">
           <source>Grid</source>
-          <target state="translated">Négyzetrácsos</target>
+          <target state="new">Grid</target>
         </trans-unit>
         <trans-unit id="ViewMenuList.Text" translate="yes" xml:space="preserve">
           <source>List</source>
-          <target state="translated">Lista</target>
+          <target state="new">List</target>
         </trans-unit>
         <trans-unit id="ViewMenuTree.Text" translate="yes" xml:space="preserve">
           <source>Tree</source>
-          <target state="translated">Fastruktúra</target>
+          <target state="new">Tree</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="NavViewItemAbout.Text" translate="yes" xml:space="preserve">
           <source>About</source>
-          <target state="translated">Névjegy</target>
+          <target state="new">About</target>
         </trans-unit>
         <trans-unit id="NavViewItemOverview.Text" translate="yes" xml:space="preserve">
           <source>Overview</source>
-          <target state="translated">Áttekintés</target>
+          <target state="new">Overview</target>
         </trans-unit>
         <trans-unit id="NavViewItemPersonalization.Text" translate="yes" xml:space="preserve">
           <source>Personalization</source>
-          <target state="translated">Testreszabás</target>
+          <target state="new">Personalization</target>
         </trans-unit>
         <trans-unit id="NavViewItemSuporteTheDev.Text" translate="yes" xml:space="preserve">
           <source>Support the development</source>
-          <target state="translated">Támogasd a fejlesztést</target>
+          <target state="new">Support the development</target>
         </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="translated">Beállítások</target>
+          <target state="new">Settings</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AddTorrentButton.Text" translate="yes" xml:space="preserve">
           <source>Add torrent</source>
-          <target state="translated">Torrent hozzáadása</target>
+          <target state="new">Add torrent</target>
         </trans-unit>
         <trans-unit id="AddTorrentButtonFile.Text" translate="yes" xml:space="preserve">
           <source>File</source>
-          <target state="translated">Fájl</target>
+          <target state="new">File</target>
         </trans-unit>
         <trans-unit id="AddTorrentButtonMagnetLink.Text" translate="yes" xml:space="preserve">
           <source>Magnet link</source>
-          <target state="translated">Magnet link</target>
+          <target state="new">Magnet link</target>
         </trans-unit>
         <trans-unit id="MinimizeToTrayButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Minimize to Tray</source>
-          <target state="translated">Tálcára helyezés</target>
+          <target state="new">Minimize to Tray</target>
         </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Main page</source>
-          <target state="translated">Főoldal</target>
+          <target state="new">Main page</target>
         </trans-unit>
         <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="translated">Beállítások</target>
+          <target state="new">Settings</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="InfoPivot.Header" translate="yes" xml:space="preserve">
           <source>Info</source>
-          <target state="translated">Infó</target>
+          <target state="new">Info</target>
         </trans-unit>
         <trans-unit id="OptionsPivot.Header" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="translated">Beállítások</target>
+          <target state="new">Options</target>
         </trans-unit>
         <trans-unit id="SavePathLabel.Text" translate="yes" xml:space="preserve">
           <source>Save path</source>
-          <target state="translated">Útvonal mentése</target>
+          <target state="new">Save path</target>
         </trans-unit>
         <trans-unit id="ShowANotificationWhenDownloadFinishToggleButton.Content" translate="yes" xml:space="preserve">
           <source>Show a notification when download finish</source>
-          <target state="translated">Értesítés megjelenítése ha a letöltés elkészült</target>
+          <target state="new">Show a notification when download finish</target>
         </trans-unit>
         <trans-unit id="StartTransferImmediatelyToggleButton.Content" translate="yes" xml:space="preserve">
           <source>Start transfer immediately</source>
-          <target state="translated">Letöltés azonnali megkezdése</target>
+          <target state="new">Start transfer immediately</target>
         </trans-unit>
         <trans-unit id="TorrentCommentsLabel.Text" translate="yes" xml:space="preserve">
           <source>Comments</source>
-          <target state="translated">Hozzászólások</target>
+          <target state="new">Comments</target>
         </trans-unit>
         <trans-unit id="TorrentCreatedByLabel.Text" translate="yes" xml:space="preserve">
           <source>Created By</source>
-          <target state="translated">Létrehozta</target>
+          <target state="new">Created By</target>
         </trans-unit>
         <trans-unit id="TorrentDownloadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
           <source>Download speed limit</source>
-          <target state="translated">Letöltési sebesség korlátja</target>
+          <target state="new">Download speed limit</target>
         </trans-unit>
         <trans-unit id="TorrentFilesCountLabel.Text" translate="yes" xml:space="preserve">
           <source>Files</source>
-          <target state="translated">Fájlok</target>
+          <target state="new">Files</target>
         </trans-unit>
         <trans-unit id="TorrentHashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="translated">Hash</target>
+          <target state="new">Hash</target>
         </trans-unit>
         <trans-unit id="TorrentSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Size</source>
-          <target state="translated">Méret</target>
+          <target state="new">Size</target>
         </trans-unit>
         <trans-unit id="TorrentUploadSpeedLimitLabel.Header" translate="yes" xml:space="preserve">
           <source>Upload speed limit</source>
-          <target state="translated">Feltöltési sebesség korlátja</target>
+          <target state="new">Upload speed limit</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" datatype="resx">
         <trans-unit id="BandwidthLimitSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Bandwidth limit</source>
-          <target state="translated">Sávszélesség korlát</target>
+          <target state="new">Bandwidth limit</target>
         </trans-unit>
         <trans-unit id="DownloadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Download</source>
-          <target state="translated">Letöltés</target>
+          <target state="new">Download</target>
         </trans-unit>
         <trans-unit id="DownloadedLabel.Text" translate="yes" xml:space="preserve">
           <source>Downloaded</source>
-          <target state="translated">Letöltve</target>
+          <target state="new">Downloaded</target>
         </trans-unit>
         <trans-unit id="DownloadSpeedLabel.Text" translate="yes" xml:space="preserve">
           <source>Download speed</source>
-          <target state="translated">Letöltési sebesség</target>
+          <target state="new">Download speed</target>
         </trans-unit>
         <trans-unit id="ETALabel.Text" translate="yes" xml:space="preserve">
           <source>ETA</source>
-          <target state="translated">Becsült hátralévő idő</target>
+          <target state="new">ETA</target>
         </trans-unit>
         <trans-unit id="FilesLabel.Text" translate="yes" xml:space="preserve">
           <source>Files</source>
-          <target state="translated">Fájlok</target>
+          <target state="new">Files</target>
         </trans-unit>
         <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve">
           <source>Folder</source>
-          <target state="translated">Mappa</target>
+          <target state="new">Folder</target>
         </trans-unit>
         <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
-          <target state="translated">Hash</target>
+          <target state="new">Hash</target>
         </trans-unit>
         <trans-unit id="LeechersLabel.Text" translate="yes" xml:space="preserve">
           <source>Leechers</source>
-          <target state="translated">Letöltők</target>
+          <target state="new">Leechers</target>
         </trans-unit>
         <trans-unit id="NotificationsSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Notifications</source>
-          <target state="translated">Értesítések</target>
+          <target state="new">Notifications</target>
         </trans-unit>
         <trans-unit id="PeersLabel.Text" translate="yes" xml:space="preserve">
           <source>Peers</source>
-          <target state="translated">Partnerek</target>
+          <target state="new">Peers</target>
         </trans-unit>
         <trans-unit id="PiecesLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces</source>
-          <target state="translated">Darabok</target>
+          <target state="new">Pieces</target>
         </trans-unit>
         <trans-unit id="PIecesLenLabel.Text" translate="yes" xml:space="preserve">
           <source>Pieces length</source>
-          <target state="translated">Darabok hossza</target>
+          <target state="new">Pieces length</target>
         </trans-unit>
         <trans-unit id="SeedsLabel.Text" translate="yes" xml:space="preserve">
           <source>Seeds</source>
-          <target state="translated">Megosztók</target>
+          <target state="new">Seeds</target>
         </trans-unit>
         <trans-unit id="TorrentInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Torrent Info</source>
-          <target state="translated">Torrent Infó</target>
+          <target state="new">Torrent Info</target>
         </trans-unit>
         <trans-unit id="TotalSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Total size</source>
-          <target state="translated">Teljes méret</target>
+          <target state="new">Total size</target>
         </trans-unit>
         <trans-unit id="TransferInfoSectionHeader.Text" translate="yes" xml:space="preserve">
           <source>Transfer info</source>
-          <target state="translated">Letöltés infó</target>
+          <target state="new">Transfer info</target>
         </trans-unit>
         <trans-unit id="UploadBandwithLimitLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload</source>
-          <target state="translated">Feltöltés</target>
+          <target state="new">Upload</target>
         </trans-unit>
         <trans-unit id="UploadedLabel.Text" translate="yes" xml:space="preserve">
           <source>Uploaded</source>
-          <target state="translated">Feltöltve</target>
+          <target state="new">Uploaded</target>
         </trans-unit>
         <trans-unit id="UploadSpeedLabel.Text" translate="yes" xml:space="preserve">
           <source>Upload speed</source>
-          <target state="translated">Feltöltési sebesség</target>
+          <target state="new">Upload speed</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AllowLocalPeerDiscoveryLabel.Text" translate="yes" xml:space="preserve">
           <source>Allow local peer discovery</source>
-          <target state="translated">Helyi partner felfedezés engedélyezése</target>
+          <target state="new">Allow local peer discovery</target>
         </trans-unit>
         <trans-unit id="AutoHideSectionDescription.Text" translate="yes" xml:space="preserve">
           <source>The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</source>
-          <target state="translated">Az automatikus elrejtés beállítás kisméret esetén is a háttérben futtatja az alkalmazást. Az alkalmazás előhívásához kattints az alkalmazás ikonjára a tálcán.</target>
+          <target state="new">The auto-hide option allows the app to keep running in the background. To show the app back, click the icon in the system tray</target>
         </trans-unit>
         <trans-unit id="AutoHideSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Auto-hide options</source>
-          <target state="translated">Automatikus elrejtés</target>
+          <target state="new">Auto-hide options</target>
         </trans-unit>
         <trans-unit id="AutoHideWhenClosedLabel.Text" translate="yes" xml:space="preserve">
           <source>Hide when closed</source>
-          <target state="translated">Bezárás esetén elrejtés</target>
+          <target state="new">Hide when closed</target>
         </trans-unit>
         <trans-unit id="AutoHideWhenMinimizedLabel.Text" translate="yes" xml:space="preserve">
           <source>Hide when minimized</source>
-          <target state="translated">Kisméret esetén elrejtés</target>
+          <target state="new">Hide when minimized</target>
         </trans-unit>
         <trans-unit id="DefaultDownloadFolderLabel.Text" translate="yes" xml:space="preserve">
           <source>Default download folder</source>
-          <target state="translated">Alapértelmezett letöltési könyvtár</target>
+          <target state="new">Default download folder</target>
         </trans-unit>
         <trans-unit id="DiskCacheSizeLabel.Text" translate="yes" xml:space="preserve">
           <source>Disk cache size</source>
-          <target state="translated">Disk cache méret</target>
+          <target state="new">Disk cache size</target>
         </trans-unit>
         <trans-unit id="GeneralSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>General</source>
-          <target state="translated">Általános</target>
+          <target state="new">General</target>
         </trans-unit>
         <trans-unit id="MaximumConnectionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Maximum connections</source>
-          <target state="translated">Kapcsolatok maximális száma</target>
+          <target state="new">Maximum connections</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedInfoBar.Message" translate="yes" xml:space="preserve">
           <source>This option may have been blocked by the system settings or by a Group Policy</source>
-          <target state="translated">Ezt a beállítást elképzelhető, hogy egy rendszerbeállítás, vagy a csoportházirend tiltja.</target>
+          <target state="new">This option may have been blocked by the system settings or by a Group Policy</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedInfoBar.Title" translate="yes" xml:space="preserve">
           <source>System settings prevent you from changing this option</source>
-          <target state="translated">A rendszerbeállítások megakadályozzák ennek a beállításnak a módosítását</target>
+          <target state="new">System settings prevent you from changing this option</target>
         </trans-unit>
         <trans-unit id="StartupTaskBlockedOpenSettingsButton.Content" translate="yes" xml:space="preserve">
           <source>Open settings</source>
-          <target state="translated">Beállítások megnyitása</target>
+          <target state="new">Open settings</target>
         </trans-unit>
         <trans-unit id="StartupTaskStartHiddenCheckbox.Content" translate="yes" xml:space="preserve">
           <source>Start minimized in the System Tray</source>
-          <target state="translated">Tálcán, kisméretben indítás</target>
+          <target state="new">Start minimized in the System Tray</target>
         </trans-unit>
         <trans-unit id="StartupTaskTitle.Text" translate="yes" xml:space="preserve">
           <source>Start ByteStream with Windows</source>
-          <target state="translated">ByteStream indítása a Windows indításakor</target>
+          <target state="new">Start ByteStream with Windows</target>
         </trans-unit>
         <trans-unit id="TorrentsSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Torrents</source>
-          <target state="translated">Torrentek</target>
+          <target state="new">Torrents</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="hu-HU" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
         <trans-unit id="ActiveTorrentsCountIconTrayTooltip" translate="yes" xml:space="preserve">
           <source>Active torrents: {0}</source>
-          <target state="translated">Aktív torrentek: {0}</target>
+          <target state="new">Active torrents: {0}</target>
         </trans-unit>
         <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve">
           <source>A torrent client for Windows 11</source>
-          <target state="translated">Torrent kliens Windows 11-hez</target>
+          <target state="new">A torrent client for Windows 11</target>
         </trans-unit>
         <trans-unit id="AppName.Text" translate="yes" xml:space="preserve">
           <source>ByteStream Torrent</source>
-          <target state="translated">ByteStream Torrent</target>
+          <target state="new">ByteStream Torrent</target>
         </trans-unit>
         <trans-unit id="AppShortName.Text" translate="yes" xml:space="preserve">
           <source>ByteStream</source>
-          <target state="translated">ByteStream</target>
+          <target state="new">ByteStream</target>
         </trans-unit>
         <trans-unit id="BrowseButton.Text" translate="yes" xml:space="preserve">
           <source>Browse...</source>
-          <target state="translated">Tallozás...</target>
+          <target state="new">Browse...</target>
         </trans-unit>
         <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="translated">Mégsem</target>
+          <target state="new">Cancel</target>
         </trans-unit>
         <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
           <source>Close</source>
-          <target state="translated">Bezárás</target>
+          <target state="new">Close</target>
         </trans-unit>
         <trans-unit id="CopyMagnetLinkButton.Text" translate="yes" xml:space="preserve">
           <source>Copy magnet link</source>
-          <target state="translated">Magnet link másolása</target>
+          <target state="new">Copy magnet link</target>
         </trans-unit>
         <trans-unit id="DeleteButton.Text" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="translated">Törlés</target>
+          <target state="new">Delete</target>
         </trans-unit>
         <trans-unit id="DownloadButton.Text" translate="yes" xml:space="preserve">
           <source>Download</source>
-          <target state="translated">Letöltés</target>
+          <target state="new">Download</target>
         </trans-unit>
         <trans-unit id="DownloadCompleteNotificationMessage" translate="yes" xml:space="preserve">
           <source>Download complete</source>
-          <target state="translated">Letöltés elkészült</target>
+          <target state="new">Download complete</target>
         </trans-unit>
         <trans-unit id="ExitAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Exit</source>
-          <target state="translated">Kilépés</target>
+          <target state="new">Exit</target>
         </trans-unit>
         <trans-unit id="HideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Hide app</source>
-          <target state="translated">Alkalmazás elrejtése</target>
+          <target state="new">Hide app</target>
         </trans-unit>
         <trans-unit id="NoActiveTorrentsIconTrayTooltip" translate="yes" xml:space="preserve">
           <source>No active torrents</source>
-          <target state="translated">Nincsenek aktív torrentek</target>
+          <target state="new">No active torrents</target>
         </trans-unit>
         <trans-unit id="OpenButton.Text" translate="yes" xml:space="preserve">
           <source>Open</source>
-          <target state="translated">Megnyitás</target>
+          <target state="new">Open</target>
         </trans-unit>
         <trans-unit id="OpenFolderButton.Text" translate="yes" xml:space="preserve">
           <source>Open folder</source>
-          <target state="translated">Mappa megnyitása</target>
+          <target state="new">Open folder</target>
         </trans-unit>
         <trans-unit id="OpenTorrentDialog.Title" translate="yes" xml:space="preserve">
           <source>Open torrent</source>
-          <target state="translated">Torrent megnyitása</target>
+          <target state="new">Open torrent</target>
         </trans-unit>
         <trans-unit id="PauseButton.Text" translate="yes" xml:space="preserve">
           <source>Pause</source>
-          <target state="translated">Felfüggeszt</target>
+          <target state="new">Pause</target>
         </trans-unit>
         <trans-unit id="RemoveButton.Text" translate="yes" xml:space="preserve">
           <source>Remove</source>
-          <target state="translated">Eltávolít</target>
+          <target state="new">Remove</target>
         </trans-unit>
         <trans-unit id="ResumeButton.Text" translate="yes" xml:space="preserve">
           <source>Resume</source>
-          <target state="translated">Folytatás</target>
+          <target state="new">Resume</target>
         </trans-unit>
         <trans-unit id="SaveFileButton.Text" translate="yes" xml:space="preserve">
           <source>Save file...</source>
-          <target state="translated">Fájl mentése...</target>
+          <target state="new">Save file...</target>
         </trans-unit>
         <trans-unit id="SelectAllButton.Text" translate="yes" xml:space="preserve">
           <source>Select all</source>
-          <target state="translated">Összes kijelölése</target>
+          <target state="new">Select all</target>
         </trans-unit>
         <trans-unit id="ShareButton.Text" translate="yes" xml:space="preserve">
           <source>Share</source>
-          <target state="translated">Megosztás</target>
+          <target state="new">Share</target>
         </trans-unit>
         <trans-unit id="ShowAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Show app</source>
-          <target state="translated">Alkalmazás megjelenítése</target>
+          <target state="new">Show app</target>
         </trans-unit>
         <trans-unit id="ShowHideAppTrayIconMenu.Text" translate="yes" xml:space="preserve">
           <source>Show/Hide</source>
-          <target state="translated">Megjelenítés/Elrejtés</target>
+          <target state="new">Show/Hide</target>
         </trans-unit>
         <trans-unit id="StopButton.Text" translate="yes" xml:space="preserve">
           <source>Stop</source>
-          <target state="translated">Leállítás</target>
+          <target state="new">Stop</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityDoNotDownload.Text" translate="yes" xml:space="preserve">
           <source>Do not download</source>
-          <target state="translated">Ne töltsd le</target>
+          <target state="new">Do not download</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityHigh.Text" translate="yes" xml:space="preserve">
           <source>High</source>
-          <target state="translated">Magas</target>
+          <target state="new">High</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityHighest.Text" translate="yes" xml:space="preserve">
           <source>Highest</source>
-          <target state="translated">Legmagasabb</target>
+          <target state="new">Highest</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityImmediate.Text" translate="yes" xml:space="preserve">
           <source>Immediate</source>
-          <target state="translated">Közepes</target>
+          <target state="new">Immediate</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityLow.Text" translate="yes" xml:space="preserve">
           <source>Low</source>
-          <target state="translated">Alacsony</target>
+          <target state="new">Low</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityLowest.Text" translate="yes" xml:space="preserve">
           <source>Lowest</source>
-          <target state="translated">Legalacsonyabb</target>
+          <target state="new">Lowest</target>
         </trans-unit>
         <trans-unit id="TorrentPriorityNormal.Text" translate="yes" xml:space="preserve">
           <source>Normal</source>
-          <target state="translated">Normál</target>
+          <target state="new">Normal</target>
         </trans-unit>
         <trans-unit id="TorrentStateCompleted.Text" translate="yes" xml:space="preserve">
           <source>Completed</source>
-          <target state="translated">Elkészült</target>
+          <target state="new">Completed</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has completed downloading all data</note>
         </trans-unit>
         <trans-unit id="TorrentStateDownloading.Text" translate="yes" xml:space="preserve">
           <source>Downloading</source>
-          <target state="translated">Letöltés</target>
+          <target state="new">Downloading</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading data from peers</note>
         </trans-unit>
         <trans-unit id="TorrentStateError.Text" translate="yes" xml:space="preserve">
           <source>Error</source>
-          <target state="translated">Hiba</target>
+          <target state="new">Error</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer has encountered an error and cannot continue</note>
         </trans-unit>
         <trans-unit id="TorrentStateHashing.Text" translate="yes" xml:space="preserve">
           <source>Hashing</source>
-          <target state="translated">Hashing</target>
+          <target state="new">Hashing</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data to verify integrity</note>
         </trans-unit>
         <trans-unit id="TorrentStateHashingPaused.Text" translate="yes" xml:space="preserve">
           <source>Hashing paused</source>
-          <target state="translated">Hashing felfüggesztve</target>
+          <target state="new">Hashing paused</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is hashing the data but paused by the user</note>
         </trans-unit>
         <trans-unit id="TorrentStateMetadata.Text" translate="yes" xml:space="preserve">
           <source>Retrieving torrent details</source>
-          <target state="translated">Torrent részleteinek letöltése</target>
+          <target state="new">Retrieving torrent details</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is downloading metadata from peers</note>
         </trans-unit>
         <trans-unit id="TorrentStatePaused.Text" translate="yes" xml:space="preserve">
           <source>Paused</source>
-          <target state="translated">Felfüggesztve</target>
+          <target state="new">Paused</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is paused by the user</note>
         </trans-unit>
         <trans-unit id="TorrentStateSeeding.Text" translate="yes" xml:space="preserve">
           <source>Seeding</source>
-          <target state="translated">Megosztva</target>
+          <target state="new">Seeding</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is seeding data to peers</note>
         </trans-unit>
         <trans-unit id="TorrentStateStarting.Text" translate="yes" xml:space="preserve">
           <source>Starting</source>
-          <target state="translated">Indul</target>
+          <target state="new">Starting</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is starting to download or seed</note>
         </trans-unit>
         <trans-unit id="TorrentStateStopped.Text" translate="yes" xml:space="preserve">
           <source>Stopped</source>
-          <target state="translated">Leállítva</target>
+          <target state="new">Stopped</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopped and not active</note>
         </trans-unit>
         <trans-unit id="TorrentStateStopping.Text" translate="yes" xml:space="preserve">
           <source>Stopping</source>
-          <target state="translated">Leállítás</target>
+          <target state="new">Stopping</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
         </trans-unit>
         <trans-unit id="TransferLimitUnlimited" translate="yes" xml:space="preserve">
           <source>Unlimited</source>
-          <target state="translated">Korlátlan</target>
+          <target state="new">Unlimited</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text displayed in the number box when the download or upload limit is unlimited.</note>
         </trans-unit>
       </group>
