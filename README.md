@@ -19,6 +19,18 @@
 | Code  | Language | Progress |
 |------ |:--------:|-----:|
 | en-US | English | base language |
+| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/91)
+| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| hu-HU | Hungarian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+| pl-PL | Polish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 | es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85) |
 | it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
 | pl-PL | Polish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
