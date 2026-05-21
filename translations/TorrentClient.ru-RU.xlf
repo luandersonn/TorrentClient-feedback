@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/DELETEDIALOG.RESW" datatype="resx">
@@ -23,7 +23,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
@@ -57,7 +57,7 @@
         </trans-unit>
         <trans-unit id="CopyMagnetLinkButton.Text" translate="yes" xml:space="preserve">
           <source>Copy magnet link</source>
-          <target state="translated">Копировать magnet ссылку</target>
+          <target state="translated">Копировать magnet-ссылку</target>
         </trans-unit>
         <trans-unit id="DeleteButton.Text" translate="yes" xml:space="preserve">
           <source>Delete</source>
@@ -221,40 +221,40 @@
         </trans-unit>
         <trans-unit id="DisabledButton.Text" translate="yes" xml:space="preserve">
           <source>Disabled</source>
-          <target state="new">Disabled</target>
+          <target state="translated">Выключено</target>
         </trans-unit>
         <trans-unit id="AutoShutdownNotification.Title" translate="yes" xml:space="preserve">
           <source>Auto shutdown enabled</source>
-          <target state="new">Auto shutdown enabled</target>
+          <target state="translated">Авто выключение активировано</target>
         </trans-unit>
         <trans-unit id="CountdownNotificationProgressBar.Status" translate="yes" xml:space="preserve">
           <source>Waiting...</source>
-          <target state="new">Waiting...</target>
+          <target state="translated">Ожидание...</target>
         </trans-unit>
         <trans-unit id="CountdownNotificationProgressBar.Value" translate="yes" xml:space="preserve">
           <source>{0}s</source>
-          <target state="new">{0}s</target>
+          <target state="translated">{0} сек</target>
         </trans-unit>
         <trans-unit id="AutoShutdownNotification.Message" translate="yes" xml:space="preserve">
           <source>All downloads have been completed. The device will shut down shortly</source>
-          <target state="new">All downloads have been completed. The device will shut down shortly</target>
+          <target state="translated">Все загрузки завершены. Устройство скоро выключится</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SUPPORTTHEDEVSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="DonateMoneyHeader.Text" translate="yes" xml:space="preserve">
           <source>Donate money</source>
-          <target state="translated">Пожертвовать денег</target>
+          <target state="translated">Сделать пожертвование</target>
         </trans-unit>
         <trans-unit id="Give5StarRatingHeader.Text" translate="yes" xml:space="preserve">
           <source>Give 5-star rating</source>
-          <target state="translated">Поставить 5 звёзд приложению</target>
+          <target state="translated">Поставить 5 звёзд</target>
         </trans-unit>
         <trans-unit id="OpenMicrosoftStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
@@ -273,7 +273,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTCOMMANDS.RESW" datatype="resx">
@@ -302,7 +302,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/ADDTORRENTVIEWPAGE.RESW" datatype="resx">
@@ -359,7 +359,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTFILESVIEWPAGE.RESW" datatype="resx">
@@ -400,7 +400,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTPANEINFO.RESW" datatype="resx">
@@ -422,7 +422,7 @@
         </trans-unit>
         <trans-unit id="ETALabel.Text" translate="yes" xml:space="preserve">
           <source>ETA</source>
-          <target state="translated">Время</target>
+          <target state="translated">Осталось примерно</target>
         </trans-unit>
         <trans-unit id="FilesLabel.Text" translate="yes" xml:space="preserve">
           <source>Files</source>
@@ -430,7 +430,7 @@
         </trans-unit>
         <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve">
           <source>Folder</source>
-          <target state="translated">Каталог</target>
+          <target state="translated">Папка</target>
         </trans-unit>
         <trans-unit id="HashLabel.Text" translate="yes" xml:space="preserve">
           <source>Hash</source>
@@ -489,7 +489,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" datatype="resx">
@@ -518,7 +518,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/OVERVIEWSETTINGSVIEWPAGE.RESW" datatype="resx">
@@ -587,17 +587,17 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/PERSONALIZATIONSETTINGSVIEWPAGE.RESW" datatype="resx">
         <trans-unit id="AppBackdropAcrylicLabel.Text" translate="yes" xml:space="preserve">
           <source>Acrylic</source>
-          <target state="translated">Acrylic</target>
+          <target state="translated">Акрил</target>
         </trans-unit>
         <trans-unit id="AppBackdropEffectLabel.Text" translate="yes" xml:space="preserve">
           <source>Backdrop effect</source>
-          <target state="translated">Backdrop effect</target>
+          <target state="translated">Эффект фона</target>
         </trans-unit>
         <trans-unit id="AppBackdropMicaLabel.Text" translate="yes" xml:space="preserve">
           <source>Mica</source>
@@ -605,7 +605,7 @@
         </trans-unit>
         <trans-unit id="AppBackdropSolidLabel.Text" translate="yes" xml:space="preserve">
           <source>Solid</source>
-          <target state="translated">Solid</target>
+          <target state="translated">Сплошной</target>
         </trans-unit>
         <trans-unit id="AppearanceSectionLabel.Text" translate="yes" xml:space="preserve">
           <source>Appearance</source>
@@ -641,14 +641,14 @@
         </trans-unit>
         <trans-unit id="SelectTheNotificationSoundLabel.Text" translate="yes" xml:space="preserve">
           <source>Notification sound</source>
-          <target state="translated">Звуковое уведомление</target>
+          <target state="translated">Звук уведомления</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="ru-RU" original="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="TORRENTCLIENT/STRINGS/EN-US/TORRENTLISTVIEWPAGE.RESW" datatype="resx">
@@ -666,11 +666,11 @@
         </trans-unit>
         <trans-unit id="PageTitleBar.Title" translate="yes" xml:space="preserve">
           <source>Main page</source>
-          <target state="translated">Главное окно</target>
+          <target state="translated">Главная</target>
         </trans-unit>
         <trans-unit id="SettingsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="translated">Настройка</target>
+          <target state="translated">Настройки</target>
         </trans-unit>
         <trans-unit id="MinimizeToTrayButton.Text" translate="yes" xml:space="preserve">
           <source>Minimize to Tray</source>
@@ -682,27 +682,27 @@
         </trans-unit>
         <trans-unit id="AppUpdatedInfo.Title" translate="yes" xml:space="preserve">
           <source>An update has been installed</source>
-          <target state="new">An update has been installed</target>
+          <target state="translated">Обновление установлено</target>
         </trans-unit>
         <trans-unit id="NewFeatureTip.Title" translate="yes" xml:space="preserve">
           <source>Auto Shutdown is here</source>
-          <target state="new">Auto Shutdown is here</target>
+          <target state="translated">Авто выключение здесь</target>
         </trans-unit>
         <trans-unit id="NewFeatureTip.Subtitle" translate="yes" xml:space="preserve">
           <source>You can now shut down your PC automatically after downloads</source>
-          <target state="new">You can now shut down your PC automatically after downloads</target>
+          <target state="translated">Теперь вы можете выключить компьютер автоматически после завершения загрузок</target>
         </trans-unit>
         <trans-unit id="ShutdownAfterDownloads.Text" translate="yes" xml:space="preserve">
           <source>Shut down after downloads complete</source>
-          <target state="new">Shut down after downloads complete</target>
+          <target state="translated">Выключить после завершения загрузок</target>
         </trans-unit>
         <trans-unit id="OptionsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="new">Options</target>
+          <target state="translated">Настройки</target>
         </trans-unit>
         <trans-unit id="PostDownloadActionMenu.Text" translate="yes" xml:space="preserve">
           <source>Auto shutdown</source>
-          <target state="new">Auto shutdown</target>
+          <target state="translated">Авто выключение</target>
         </trans-unit>
       </group>
     </body>
