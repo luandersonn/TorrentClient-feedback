@@ -55,9 +55,37 @@
           <source>Settings</source>
           <target state="translated">Configurações</target>
         </trans-unit>
-        <trans-unit id="MinimizeToTrayButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+        <trans-unit id="MinimizeToTrayButton.Text" translate="yes" xml:space="preserve">
           <source>Minimize to Tray</source>
           <target state="translated">Minimizar para a bandeja</target>
+        </trans-unit>
+        <trans-unit id="SettingsButton.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="translated">Configurações</target>
+        </trans-unit>
+        <trans-unit id="AppUpdatedInfo.Title" translate="yes" xml:space="preserve">
+          <source>An update has been installed</source>
+          <target state="translated">Uma atualização foi instalada</target>
+        </trans-unit>
+        <trans-unit id="NewFeatureTip.Title" translate="yes" xml:space="preserve">
+          <source>Auto Shutdown is here</source>
+          <target state="translated">Desligamento automático está disponível</target>
+        </trans-unit>
+        <trans-unit id="NewFeatureTip.Subtitle" translate="yes" xml:space="preserve">
+          <source>You can now shut down your PC automatically after downloads</source>
+          <target state="translated">Agora você pode desligar seu PC automaticamente após os downloads</target>
+        </trans-unit>
+        <trans-unit id="ShutdownAfterDownloads.Text" translate="yes" xml:space="preserve">
+          <source>Shut down after downloads complete</source>
+          <target state="translated">Desligar após a conclusão dos downloads</target>
+        </trans-unit>
+        <trans-unit id="OptionsButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="translated">Opções</target>
+        </trans-unit>
+        <trans-unit id="PostDownloadActionMenu.Text" translate="yes" xml:space="preserve">
+          <source>Auto shutdown</source>
+          <target state="translated">Desligamento automático</target>
         </trans-unit>
       </group>
     </body>
@@ -525,6 +553,26 @@
           <source>Stopping</source>
           <target state="translated">Parando</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Indicates that the torrent transfer is stopping and closing connections</note>
+        </trans-unit>
+        <trans-unit id="DisabledButton.Text" translate="yes" xml:space="preserve">
+          <source>Disabled</source>
+          <target state="translated">Desativado</target>
+        </trans-unit>
+        <trans-unit id="AutoShutdownNotification.Title" translate="yes" xml:space="preserve">
+          <source>Auto shutdown enabled</source>
+          <target state="translated">Desligamento automático ativado</target>
+        </trans-unit>
+        <trans-unit id="CountdownNotificationProgressBar.Status" translate="yes" xml:space="preserve">
+          <source>Waiting...</source>
+          <target state="translated">Aguardando...</target>
+        </trans-unit>
+        <trans-unit id="CountdownNotificationProgressBar.Value" translate="yes" xml:space="preserve">
+          <source>{0}s</source>
+          <target state="translated">{0}s</target>
+        </trans-unit>
+        <trans-unit id="AutoShutdownNotification.Message" translate="yes" xml:space="preserve">
+          <source>All downloads have been completed. The device will shut down shortly</source>
+          <target state="translated">Todos os downloads foram concluídos. O dispositivo será desligado em breve</target>
         </trans-unit>
       </group>
     </body>

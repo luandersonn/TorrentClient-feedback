@@ -1,4 +1,3 @@
-
 # ByteStream Torrent for Windows 11 (Feedback)
  
 <img src="assets/images/bst-icon.png" alt="ByteStream logo" width="150"/> 
