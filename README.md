@@ -1,6 +1,6 @@
 # ByteStream Torrent for Windows 11 (Feedback)
- 
-<img src="assets/images/bst-icon.png" alt="ByteStream logo" width="150"/> 
+
+<img src="assets/images/bst-icon.png" alt="ByteStream logo" width="150"/>
 
 <a href="https://luandersonn.com/bytestream/">ByteStream Torrent</a> is a torrent client that makes it easy to download movies, music, games, software, ebooks and more. It has an intuitive interface and beautiful design. The app supports magnet links, so you can quickly find torrents without having to go through the hassle of searching manually.
 
@@ -11,32 +11,22 @@
 ## Help to Translate
 
 ### How to Translate
+
 1. Download the language file you want to translate [here](translations/) or [request the file](https://github.com/luandersonn/TorrentClient-feedback/issues/new) if it does not exist.
 2. Edit the file using an XLIFF editor. I recommend [Poedit](https://poedit.net/).
 3. Upload the file to the repository.
 4. Open a pull request.
 
-| Code  | Language | Progress |
-|------ |:--------:|-----:|
-| en-US | English | base language |
-| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/91)
-| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| hu-HU | Hungarian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| pl-PL | Polish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85) |
-| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
-| pl-PL | Polish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
-| pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
-| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
-| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
-| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
-| sv-SE | Swedish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
-
+| Code  |       Language        |                                                                   Progress |
+| ----- | :-------------------: | -------------------------------------------------------------------------: |
+| en-US |        English        |                                                              base language |
+| de-DE |        German         | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
+| es-ES |        Spanish        |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85) |
+| hu-HU |       Hungarian       |   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| it-IT |        Italian        |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/89) |
+| pl-PL |        Polish         |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
+| pt-BR |      Portuguese       |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
+| pt-PT | Portuguese (Portugal) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
+| ru-RU |        Russian        | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
+| zh-CN |  Simplified Chinese   |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/92) |
+| sv-SE |        Swedish        | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
