@@ -22,7 +22,7 @@
 | en-US |        English        |                                                               base language |
 | de-DE |        German         | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/94.5) |
 | es-ES |        Spanish        | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/86.9) |
-| hu-HU |       Hungarian       |    ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| hu-HU |       Hungarian       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95.2) |
 | it-IT |        Italian        | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/93.8) |
 | pl-PL |        Polish         | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/94.5) |
 | pt-BR |      Portuguese       |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |
